@@ -1,0 +1,172 @@
+Skill 1 攻撃: Damage Formula: a.atk * 4 - b.def * 2
+Skill 3 連続攻撃: Damage Formula: a.atk * 4 - b.def * 2
+Skill 4 ２回攻撃: Damage Formula: a.atk * 4 - b.def * 2
+Skill 5 ３回攻撃: Damage Formula: a.atk * 4 - b.def * 2
+Skill 8 炎の息: Damage Formula: a.atk
+Skill 9 吹雪の息: Damage Formula: a.atk
+Skill 10 電撃: Damage Formula: a.atk
+Skill 21 体当たり: Damage Formula: a.atk * 4 - b.def * 2
+Skill 23 肥満化アタック: Damage Formula: 
+Skill 24 瞑想: Damage Formula: b.mhp / 4
+Skill 27 ヒール: Damage Formula: 200 + a.mat * 2
+Skill 28 ハイ・ヒール: Damage Formula: 600 + a.mat * 3
+Skill 29 メガ・ヒール: Damage Formula: 2000 + a.mat * 4
+Skill 30 エクス・ヒール: Damage Formula: b.mhp
+Skill 31 ホーリィ: Damage Formula: 150 + a.mat * 2
+Skill 32 ハイ・ホーリィ: Damage Formula: 500 + a.mat * 3
+Skill 33 メガ・ホーリィ: Damage Formula: 1500 + a.mat * 4
+Skill 34 エクス・ホーリィ: Damage Formula: b.mhp
+Skill 39 リライズ: Damage Formula: b.mhp / 10
+Skill 40 リバイブ: Damage Formula: b.mhp
+Skill 67 トキシック: Damage Formula: a.mat - b.mdf
+Skill 68 ダークカーテン: Damage Formula: a.mat - b.mdf
+Skill 69 ビークワイエ: Damage Formula: a.mat - b.mdf
+Skill 70 コンフューズ: Damage Formula: a.mat - b.mdf
+Skill 71 ドロウジーリング: Damage Formula: a.mat - b.mdf
+Skill 72 パラライシス: Damage Formula: a.mat - b.mdf
+Skill 73 ナリファイライフ: Damage Formula: a.mat - b.mdf
+Skill 77 リームバレット: Damage Formula: a.mat * 5 - b.mdf * 2.5
+Skill 78 ラジアントヒート: Damage Formula: a.mat * 10 - b.mdf * 5
+Skill 79 フレイムピラー: Damage Formula: a.mat * 8 - b.mdf * 4
+Skill 80 ブレイズラッシュ: Damage Formula: a.mat * 14 - b.mdf * 7
+Skill 81 アイスエッジ: Damage Formula: a.mat * 5 - b.mdf * 2.5
+Skill 82 コールドスパイク: Damage Formula: a.mat * 10 - b.mdf * 5
+Skill 83 ブリークレイン: Damage Formula: a.mat * 8 - b.mdf * 4
+Skill 84 アイスクライシス: Damage Formula: a.mat * 14 - b.mdf * 7
+Skill 85 ファストサンダー: Damage Formula: a.mat * 5 - b.mdf * 2.5
+Skill 86 ハイボルテージ: Damage Formula: a.mat * 10 - b.mdf * 5
+Skill 87 カレントアース: Damage Formula: a.mat * 8 - b.mdf * 4
+Skill 88 エレクスタニング: Damage Formula: a.mat * 14 - b.mdf * 7
+Skill 89 ウォーターショット: Damage Formula: a.mat * 5 - b.mdf * 2.5
+Skill 90 バブルサークル: Damage Formula: a.mat * 10 - b.mdf * 5
+Skill 91 アクアラピッド: Damage Formula: a.mat * 8 - b.mdf * 4
+Skill 92 ビッグウェーブ: Damage Formula: a.mat * 14 - b.mdf * 7
+Skill 93 アレイアップル: Damage Formula: a.mat * 5 - b.mdf * 2.5
+Skill 94 ガトリングロック: Damage Formula: a.mat * 10 - b.mdf * 5
+Skill 95 グランドレイジ: Damage Formula: a.mat * 14 - b.mdf * 7
+Skill 96 ビッグスタンプ: Damage Formula: a.mat * 14 - b.mdf * 7
+Skill 97 ハートゲイル: Damage Formula: a.mat * 5 - b.mdf * 2.5
+Skill 98 ランブルカッター: Damage Formula: a.mat * 10 - b.mdf * 5
+Skill 99 クロスタイフーン: Damage Formula: a.mat * 8 - b.mdf * 4
+Skill 100 スクラムサイクロン: Damage Formula: a.mat * 14 - b.mdf * 7
+Skill 101 セイントウィスプ: Damage Formula: a.mat * 5.5 - b.mdf * 2.75
+Skill 102 ライトジャッジ: Damage Formula: a.mat * 12 - b.mdf * 6
+Skill 103 サンクチュアリレイ: Damage Formula: a.mat * 20 - b.mdf * 10
+Skill 104 ダークボール: Damage Formula: a.mat * 5.5 - b.mdf * 2.75
+Skill 105 ディズマルゲート: Damage Formula: a.mat * 12 - b.mdf * 6
+Skill 106 カバナントテンプター: Damage Formula: a.mat * 20 - b.mdf * 10
+Skill 107 タイトインパクト: Damage Formula: a.mat * 5 - b.mdf * 2.5
+Skill 108 エクスプロード: Damage Formula: a.mat * 13 - b.mdf * 6.5
+Skill 109 バーストメテオ: Damage Formula: a.mat * 22 - b.mdf * 11
+Skill 110 ライフドレイン: Damage Formula: a.mat * 4 - b.mdf * 2
+Skill 111 ライフスティール: Damage Formula: a.mat * 2 - b.mdf
+Skill 112 メンタルドレイン: Damage Formula: a.mat - b.mdf
+Skill 113 メンタルスティール: Damage Formula: a.mat * 0.5 - b.mdf * 0.5
+Skill 120 トイフェリンリート: Damage Formula: a.mat * 4
+Skill 123 かがやく: Damage Formula: 5 + a.mat * 0.1
+Skill 124 祈り: Damage Formula: a.luk * 8
+Skill 132 ファストアクト: Damage Formula: a.atk * 3.5 - b.def * 1.75
+Skill 133 ツインスタッブ: Damage Formula: a.atk * 8 - b.def * 4
+Skill 134 スラッシュラッシュ: Damage Formula: a.atk * 4 - b.def * 2
+Skill 135 ソードダンス: Damage Formula: a.atk * 5 - b.def * 2.5
+Skill 136 アサルトアーツ: Damage Formula: a.atk * 6 - b.def * 3
+Skill 137 インフェルノドライブ: Damage Formula: a.atk * 10 + a.mat * 4 - b.def * 5 - b.mdf * 2
+Skill 139 一刀両断: Damage Formula: a.atk * 5 - b.def * 2.5
+Skill 140 居合い斬り: Damage Formula: a.atk * 4 - b.def * 2
+Skill 141 V・スラッシュ: Damage Formula: a.atk * 7 - b.def * 3.5
+Skill 142 ダブルクロス: Damage Formula: a.atk * 4 - b.def * 2
+Skill 143 ベルセルク: Damage Formula: a.atk * 8 - b.def * 4
+Skill 144 オーバースレイブ: Damage Formula: a.atk * 12 - b.def * 6
+Item 17 生命の水: Damage Formula: b.mhp / 2
+Item 19 ポータブルイン: Damage Formula: b.mhp
+Common Event 4 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰS Line 1:  - Script call: change_graphics_by_states
+Common Event 5 幼児装備チェックS Line 7:  - Script call: mes_ed = 0
+Common Event 5 幼児装備チェックS Line 8:  - Script call:  if $game_actors[1].state?(28); for i in 0..1
+Common Event 5 幼児装備チェックS Line 9:  - Script call:    if $game_actors[1].equips[i] != nil
+Common Event 5 幼児装備チェックS Line 10:  - Script call:     if $game_actors[1].equips[i].id >0
+Common Event 5 幼児装備チェックS Line 11:  - Script call:     acwep = $game_actors[1].equips[i].id
+Common Event 5 幼児装備チェックS Line 12:  - Script call:     unless $data_weapons[acwep].wtype_id == 4
+Common Event 5 幼児装備チェックS Line 13:  - Script call:     remove_equip(1, i+1);g_a = $game_actors[1].name
+Common Event 5 幼児装備チェックS Line 14:  - Script call:      unless mes_ed == 1; mes_ed = 1
+Common Event 5 幼児装備チェックS Line 15:  - Script call: $game_message.position = 2 
+Common Event 5 幼児装備チェックS Line 16:  - Script call: mes = "#{g_a}は幼児用の武器でないと装備できない。\
+Common Event 5 幼児装備チェックS Line 17:  - Script call: \n#{g_a}の装備が外れた。";$game_message.add(mes)
+Common Event 5 幼児装備チェックS Line 18:  - Script call: end;end;end;end;end;end
+Common Event 5 幼児装備チェックS Line 19:  - Script call: for i in 2..4
+Common Event 5 幼児装備チェックS Line 20:  - Script call:  if $game_actors[i].state?(28)
+Common Event 5 幼児装備チェックS Line 21:  - Script call:   if $game_actors[i].weapons[0] != nil
+Common Event 5 幼児装備チェックS Line 22:  - Script call:    if $game_actors[i].weapons[0].id >0
+Common Event 5 幼児装備チェックS Line 23:  - Script call:     acwep = $game_actors[i].weapons[0].id
+Common Event 5 幼児装備チェックS Line 24:  - Script call:     unless $data_weapons[acwep].wtype_id == 4
+Common Event 5 幼児装備チェックS Line 25:  - Script call:     remove_equip(i, 1);g_a = $game_actors[i].name
+Common Event 5 幼児装備チェックS Line 26:  - Script call: $game_message.position = 2
+Common Event 5 幼児装備チェックS Line 27:  - Script call: mes = "#{g_a}は幼児用武器でないと装備できない。\
+Common Event 5 幼児装備チェックS Line 28:  - Script call: \n#{g_a}の装備が外れた。"
+Common Event 5 幼児装備チェックS Line 29:  - Script call:       $game_message.add(mes)
+Common Event 5 幼児装備チェックS Line 30:  - Script call:      end;end;end;end;end
+Common Event 5 幼児装備チェックS Line 32:  - Script call: mes_ed = 0
+Common Event 5 幼児装備チェックS Line 33:  - Script call:  if $game_actors[1].state?(28); for i in 2..3
+Common Event 5 幼児装備チェックS Line 34:  - Script call:    if $game_actors[1].equips[i] != nil
+Common Event 5 幼児装備チェックS Line 35:  - Script call:     if $game_actors[1].equips[i].id >0
+Common Event 5 幼児装備チェックS Line 36:  - Script call:     acwep = $game_actors[1].equips[i].id
+Common Event 5 幼児装備チェックS Line 37:  - Script call:     unless $data_armors[acwep].atype_id == 7
+Common Event 5 幼児装備チェックS Line 38:  - Script call:     remove_equip(1, i+1);g_a = $game_actors[1].name
+Common Event 5 幼児装備チェックS Line 39:  - Script call:      unless mes_ed == 1; mes_ed = 1
+Common Event 5 幼児装備チェックS Line 40:  - Script call: $game_message.position = 2
+Common Event 5 幼児装備チェックS Line 41:  - Script call: mes = "#{g_a}は幼児用の防具でないと装備できない。\
+Common Event 5 幼児装備チェックS Line 42:  - Script call: \n#{g_a}の装備が外れた。";$game_message.add(mes)
+Common Event 5 幼児装備チェックS Line 43:  - Script call: end;end;end;end;end;end
+Common Event 5 幼児装備チェックS Line 44:  - Script call: mes_ed =[0,0,0,0];for i in 2..4
+Common Event 5 幼児装備チェックS Line 45:  - Script call: if $game_actors[i].state?(28)
+Common Event 5 幼児装備チェックS Line 46:  - Script call:   for j in 1..3;if $game_actors[i].equips[j] != nil
+Common Event 5 幼児装備チェックS Line 47:  - Script call:     if $game_actors[i].equips[j].id >0
+Common Event 5 幼児装備チェックS Line 48:  - Script call:      acamr = $game_actors[i].equips[j].id
+Common Event 5 幼児装備チェックS Line 49:  - Script call:      unless $data_armors[acamr].atype_id == 7
+Common Event 5 幼児装備チェックS Line 50:  - Script call:     remove_equip(i, j+1);g_a = $game_actors[i].name
+Common Event 5 幼児装備チェックS Line 51:  - Script call: unless mes_ed[i] == 1;mes_ed[i] =1
+Common Event 5 幼児装備チェックS Line 52:  - Script call: $game_message.position = 2
+Common Event 5 幼児装備チェックS Line 53:  - Script call: mes = "#{g_a}は幼児用防具でないと装備できない。\
+Common Event 5 幼児装備チェックS Line 54:  - Script call: \n#{g_a}の装備が外れた。"
+Common Event 5 幼児装備チェックS Line 55:  - Script call:  $game_message.add(mes);end;end;end;end;end;end;end
+Common Event 6 ECチェック Line 11:  - Script call: actor = $data_actors[1]
+Common Event 6 ECチェック Line 12:  - Script call: actor.description = "呪いの装備を付け、ずっと幼児\
+Common Event 6 ECチェック Line 13:  - Script call: として生きることになった\nアルバン。身長だけは並の\
+Common Event 6 ECチェック Line 14:  - Script call: ファイアインプぐらいになった。"
+Common Event 6 ECチェック Line 28:  - Script call: actor = $data_actors[2]
+Common Event 6 ECチェック Line 29:  - Script call: actor.description = "呪いの装備を付け、ずっと幼児\
+Common Event 6 ECチェック Line 30:  - Script call: として生きることになった\nラディア。最近おしゃぶ\
+Common Event 6 ECチェック Line 31:  - Script call: りにも慣れたらしい。"
+Common Event 6 ECチェック Line 45:  - Script call: actor = $data_actors[3]
+Common Event 6 ECチェック Line 46:  - Script call: actor.description = "呪いの装備を付け、ずっと幼児\
+Common Event 6 ECチェック Line 47:  - Script call: として生きることになった\nトト。よちよち歩きができ\
+Common Event 6 ECチェック Line 48:  - Script call: るようになった。"
+Common Event 6 ECチェック Line 62:  - Script call: actor = $data_actors[4]
+Common Event 6 ECチェック Line 63:  - Script call: actor.description = "呪いの装備を付け、ずっと幼児\
+Common Event 6 ECチェック Line 64:  - Script call: として生きることになった\nエミリー。師匠はおかま\
+Common Event 6 ECチェック Line 65:  - Script call: いなしに修行をさせてくるらしいが。"
+Common Event 7 肉鎧チェック Line 11:  - Script call: actor = $data_actors[1]
+Common Event 7 肉鎧チェック Line 12:  - Script call: actor.description = "呪いの装備を付け、肉塊として\
+Common Event 7 肉鎧チェック Line 13:  - Script call: 生きることになったアルバン。\n絶え間ない空腹に悩\
+Common Event 7 肉鎧チェック Line 14:  - Script call: まされている。"
+Common Event 7 肉鎧チェック Line 28:  - Script call: actor = $data_actors[2]
+Common Event 7 肉鎧チェック Line 29:  - Script call: actor.description = "呪いの装備を付け、肉塊として\
+Common Event 7 肉鎧チェック Line 30:  - Script call: 生きることになったラディア。\n使命よりも、明日の\
+Common Event 7 肉鎧チェック Line 31:  - Script call: ご飯のほうが目下の心配ごとだ。"
+Common Event 7 肉鎧チェック Line 45:  - Script call: actor = $data_actors[3]
+Common Event 7 肉鎧チェック Line 46:  - Script call: actor.description = "呪いの装備を付け、肉塊として\
+Common Event 7 肉鎧チェック Line 47:  - Script call: 生きることになったトト。\nお目付け役を果たす意志は\
+Common Event 7 肉鎧チェック Line 48:  - Script call: あるようだが、食欲に負けがち。"
+Common Event 7 肉鎧チェック Line 62:  - Script call: actor = $data_actors[4]
+Common Event 7 肉鎧チェック Line 63:  - Script call: actor.description = "呪いの装備を付け、肉塊として\
+Common Event 7 肉鎧チェック Line 64:  - Script call: 生きることになったエミリー。\n師匠曰く、外せるが面\
+Common Event 7 肉鎧チェック Line 65:  - Script call: 白いのでもうしばらく放置、だそうだ。"
+Common Event 13 肥満化・肥満重複で肉塊 Line 1:  - Script call: double_fattening_by_SINGLETARGET_item
+Map 2 MAP002 - Event 3 EV003 (13,9) - Page 1 Line 1:  - Script call: p $data_actors[1].nickname
+Map 2 MAP002 - Event 3 EV003 (13,9) - Page 1 Line 2:  - Script call: if $game_actors[1].weapons[0] != nil
+Map 2 MAP002 - Event 3 EV003 (13,9) - Page 1 Line 3:  - Script call:  p $game_actors[1].weapons[0].id
+Map 2 MAP002 - Event 3 EV003 (13,9) - Page 1 Line 4:  - Script call:  acwep = $game_actors[1].weapons[0].id
+Map 2 MAP002 - Event 3 EV003 (13,9) - Page 1 Line 5:  - Script call:  p $data_weapons[acwep].wtype_id
+Map 2 MAP002 - Event 3 EV003 (13,9) - Page 1 Line 6:  - Script call: end
+Map 2 MAP002 - Event 3 EV003 (13,9) - Page 1 Line 7:  - Script call: if $game_actors[1].states != nil
+Map 2 MAP002 - Event 3 EV003 (13,9) - Page 1 Line 8:  - Script call:  p $game_actors[1].states
+Map 2 MAP002 - Event 3 EV003 (13,9) - Page 1 Line 9:  - Script call: end

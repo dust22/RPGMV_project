@@ -1,0 +1,2789 @@
+Troop 1 ("スライム*2")
+  Page 1
+      {"code":117,"indent":0,"parameters":[5]}
+      {"code":117,"indent":0,"parameters":[6]}
+      {"code":117,"indent":0,"parameters":[7]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 2 ("大バチ*2")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 3 ("クロウラー*2")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 4 ("スライム, 大バチ, クロウラー")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 5 ("ビッグアルラウネBoss")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 6 ("")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 7 ("バット*2")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 8 ("テスト用スライム")
+  Page 1
+      {"code":117,"indent":0,"parameters":[5]}
+      {"code":117,"indent":0,"parameters":[6]}
+      {"code":117,"indent":0,"parameters":[7]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 9 ("")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 10 ("")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 11 ("")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 12 ("")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 13 ("")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 14 ("")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 15 ("")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 16 ("")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 17 ("")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 18 ("")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 19 ("")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 20 ("")
+  Page 1
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Troop 21 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 22 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 23 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 24 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 25 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 26 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 27 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 28 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 29 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 30 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 31 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 32 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 33 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 34 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 35 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 36 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 37 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 38 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 39 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 40 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 41 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 42 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 43 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 44 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 45 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 46 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 47 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 48 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 49 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 50 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 51 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 52 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 53 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 54 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 55 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 56 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 57 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 58 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 59 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 60 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 61 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 62 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 63 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 64 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 65 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 66 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 67 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 68 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 69 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 70 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 71 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 72 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 73 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 74 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 75 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 76 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 77 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 78 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 79 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 80 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 81 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 82 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 83 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 84 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 85 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 86 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 87 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 88 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 89 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 90 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 91 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 92 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 93 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 94 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 95 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 96 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 97 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 98 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 99 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 100 ("")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 1 ("（未使用）")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 2 ("ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備）")
+      {"code":108,"indent":0,"parameters":["各キャラが"]}
+      {"code":408,"indent":0,"parameters":["「肥満で」"]}
+      {"code":408,"indent":0,"parameters":["「幼児でなく」"]}
+      {"code":408,"indent":0,"parameters":["「肉塊でもないなら」"]}
+      {"code":408,"indent":0,"parameters":["肥満グラフィックに"]}
+      {"code":111,"indent":0,"parameters":[4,1,6,26]}
+      {"code":111,"indent":1,"parameters":[4,1,6,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,1,6,27]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":322,"indent":3,"parameters":[1,"alban",2,"alban-f",0,""]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,2,6,26]}
+      {"code":111,"indent":1,"parameters":[4,2,6,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,2,6,27]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":322,"indent":3,"parameters":[2,"radia",2,"radia-f",0,""]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,3,6,26]}
+      {"code":111,"indent":1,"parameters":[4,3,6,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,3,6,27]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":322,"indent":3,"parameters":[3,"toto",2,"toto-f",0,""]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,4,6,26]}
+      {"code":111,"indent":1,"parameters":[4,4,6,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,4,6,27]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":322,"indent":3,"parameters":[4,"emily",2,"emily-f",0,""]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":108,"indent":0,"parameters":["各キャラが"]}
+      {"code":408,"indent":0,"parameters":["「幼児で」"]}
+      {"code":408,"indent":0,"parameters":["「肉塊でないなら」"]}
+      {"code":408,"indent":0,"parameters":["幼児グラに変更"]}
+      {"code":408,"indent":0,"parameters":["ついでに誰かが幼児なら幼児判定スイッチオン"]}
+      {"code":111,"indent":0,"parameters":[4,1,6,28]}
+      {"code":121,"indent":1,"parameters":[1,1,0]}
+      {"code":111,"indent":1,"parameters":[4,1,6,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":322,"indent":2,"parameters":[1,"alban",1,"alban-b",0,""]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,2,6,28]}
+      {"code":121,"indent":1,"parameters":[1,1,0]}
+      {"code":111,"indent":1,"parameters":[4,2,6,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":322,"indent":2,"parameters":[2,"radia",1,"radia-b",0,""]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,3,6,28]}
+      {"code":121,"indent":1,"parameters":[1,1,0]}
+      {"code":111,"indent":1,"parameters":[4,3,6,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":322,"indent":2,"parameters":[3,"toto",1,"toto-b",0,""]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,4,6,28]}
+      {"code":121,"indent":1,"parameters":[1,1,0]}
+      {"code":111,"indent":1,"parameters":[4,4,6,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":322,"indent":2,"parameters":[4,"emily",1,"emily-b",0,""]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":108,"indent":0,"parameters":["「誰も幼児でないなら」"]}
+      {"code":408,"indent":0,"parameters":["幼児判定スイッチオフ"]}
+      {"code":111,"indent":0,"parameters":[4,1,6,28]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[4,2,6,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,3,6,28]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[4,4,6,28]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":121,"indent":4,"parameters":[1,1,1]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":108,"indent":0,"parameters":["各キャラが"]}
+      {"code":408,"indent":0,"parameters":["「肉塊なら」"]}
+      {"code":408,"indent":0,"parameters":["肉塊グラフィックに"]}
+      {"code":408,"indent":0,"parameters":["ついでに誰かが肉塊なら肉塊判定スイッチオンに"]}
+      {"code":111,"indent":0,"parameters":[4,1,6,27]}
+      {"code":121,"indent":1,"parameters":[2,2,0]}
+      {"code":322,"indent":1,"parameters":[1,"$alban_ef",0,"alban-ef",0,""]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,2,6,27]}
+      {"code":121,"indent":1,"parameters":[2,2,0]}
+      {"code":322,"indent":1,"parameters":[2,"$radia_ef",0,"radia-ef",0,""]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,3,6,27]}
+      {"code":121,"indent":1,"parameters":[2,2,0]}
+      {"code":322,"indent":1,"parameters":[3,"$toto_ef",0,"toto-ef",0,""]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,4,6,27]}
+      {"code":121,"indent":1,"parameters":[2,2,0]}
+      {"code":322,"indent":1,"parameters":[4,"$emily_ef",0,"emily-ef",0,""]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":108,"indent":0,"parameters":["「誰も肉塊でないなら」"]}
+      {"code":408,"indent":0,"parameters":["肉塊判定スイッチオフ"]}
+      {"code":111,"indent":0,"parameters":[4,1,6,27]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[4,2,6,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,3,6,27]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[4,4,6,27]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":121,"indent":4,"parameters":[2,2,1]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":108,"indent":0,"parameters":["各キャラが"]}
+      {"code":408,"indent":0,"parameters":["「肥満ではなく」"]}
+      {"code":408,"indent":0,"parameters":["「幼児でもなく」"]}
+      {"code":408,"indent":0,"parameters":["「肉塊でもない」"]}
+      {"code":408,"indent":0,"parameters":["なら通常グラに"]}
+      {"code":108,"indent":0,"parameters":["アルバン君のみ特殊"]}
+      {"code":408,"indent":0,"parameters":["「誰かが肉塊なら」"]}
+      {"code":408,"indent":0,"parameters":["判定拡大用キャラチップに変更"]}
+      {"code":111,"indent":0,"parameters":[0,2,0]}
+      {"code":111,"indent":1,"parameters":[4,1,6,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,1,6,28]}
+      {"code":322,"indent":3,"parameters":[1,"alban_hantei",1,"alban-b",0,""]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[4,1,6,26]}
+      {"code":322,"indent":4,"parameters":[1,"alban_hantei",2,"alban-f",0,""]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":322,"indent":4,"parameters":[1,"alban_hantei",0,"alban",0,""]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[4,1,6,26]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,1,6,28]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[4,1,6,27]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":322,"indent":4,"parameters":[1,"alban",0,"alban",0,""]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,2,6,26]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[4,2,6,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,2,6,27]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":322,"indent":3,"parameters":[2,"radia",0,"radia",0,""]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,3,6,26]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[4,3,6,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,3,6,27]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":322,"indent":3,"parameters":[3,"toto",0,"toto",0,""]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,4,6,26]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[4,4,6,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,4,6,27]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":322,"indent":3,"parameters":[4,"emily",0,"emily",0,""]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 3 ("幼児装備チェック（予備）")
+      {"code":111,"indent":0,"parameters":[4,1,6,28]}
+      {"code":111,"indent":1,"parameters":[4,1,4,61]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[1]は、幼児用の武器でないと装備できない。"]}
+      {"code":319,"indent":2,"parameters":[1,1,0]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[4,1,5,61]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[1]は、幼児用の防具でないと装備できない。"]}
+      {"code":319,"indent":2,"parameters":[1,4,0]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,2,6,28]}
+      {"code":111,"indent":1,"parameters":[4,2,4,61]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[2]は、幼児用の武器でないと装備できない。"]}
+      {"code":319,"indent":2,"parameters":[2,1,0]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[4,2,5,61]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[2]は、幼児用の防具でないと装備できない。"]}
+      {"code":319,"indent":2,"parameters":[2,4,0]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,3,6,28]}
+      {"code":111,"indent":1,"parameters":[4,3,4,61]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[3]は、幼児用の武器でないと装備できない。"]}
+      {"code":319,"indent":2,"parameters":[3,1,0]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[4,3,5,61]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[3]は、幼児用の防具でないと装備できない。"]}
+      {"code":319,"indent":2,"parameters":[3,4,0]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,4,6,28]}
+      {"code":111,"indent":1,"parameters":[4,4,4,61]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[4]は、幼児用の武器でないと装備できない。"]}
+      {"code":319,"indent":2,"parameters":[4,1,0]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[4,4,5,61]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[4]は、幼児用の防具でないと装備できない。"]}
+      {"code":319,"indent":2,"parameters":[4,4,0]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 4 ("ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰS")
+      {"code":355,"indent":0,"parameters":["change_graphics_by_states"]}
+      {"code":111,"indent":0,"parameters":[6,-1,2]}
+      {"code":121,"indent":1,"parameters":[19,19,0]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":121,"indent":1,"parameters":[19,19,1]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 5 ("幼児装備チェックS")
+      {"code":108,"indent":0,"parameters":["==行動前イベント:使用前=="]}
+      {"code":108,"indent":0,"parameters":["$game_actors[1].state?(28)"]}
+      {"code":408,"indent":0,"parameters":["$game_actors[2].state?(28)"]}
+      {"code":408,"indent":0,"parameters":["$game_actors[3].state?(28)"]}
+      {"code":408,"indent":0,"parameters":["$game_actors[4].state?(28)"]}
+      {"code":118,"indent":0,"parameters":["幼児化ステート:28"]}
+      {"code":355,"indent":0,"parameters":["mes_ed = 0"]}
+      {"code":655,"indent":0,"parameters":[" if $game_actors[1].state?(28); for i in 0..1"]}
+      {"code":655,"indent":0,"parameters":["   if $game_actors[1].equips[i] != nil"]}
+      {"code":655,"indent":0,"parameters":["    if $game_actors[1].equips[i].id >0"]}
+      {"code":655,"indent":0,"parameters":["    acwep = $game_actors[1].equips[i].id"]}
+      {"code":655,"indent":0,"parameters":["    unless $data_weapons[acwep].wtype_id == 4"]}
+      {"code":655,"indent":0,"parameters":["    remove_equip(1, i+1);g_a = $game_actors[1].name"]}
+      {"code":655,"indent":0,"parameters":["     unless mes_ed == 1; mes_ed = 1"]}
+      {"code":655,"indent":0,"parameters":["$game_message.position = 2 "]}
+      {"code":655,"indent":0,"parameters":["mes = \"#{g_a}は幼児用の武器でないと装備できない。\\"]}
+      {"code":655,"indent":0,"parameters":["\\n#{g_a}の装備が外れた。\";$game_message.add(mes)"]}
+      {"code":655,"indent":0,"parameters":["end;end;end;end;end;end"]}
+      {"code":355,"indent":0,"parameters":["for i in 2..4"]}
+      {"code":655,"indent":0,"parameters":[" if $game_actors[i].state?(28)"]}
+      {"code":655,"indent":0,"parameters":["  if $game_actors[i].weapons[0] != nil"]}
+      {"code":655,"indent":0,"parameters":["   if $game_actors[i].weapons[0].id >0"]}
+      {"code":655,"indent":0,"parameters":["    acwep = $game_actors[i].weapons[0].id"]}
+      {"code":655,"indent":0,"parameters":["    unless $data_weapons[acwep].wtype_id == 4"]}
+      {"code":655,"indent":0,"parameters":["    remove_equip(i, 1);g_a = $game_actors[i].name"]}
+      {"code":655,"indent":0,"parameters":["$game_message.position = 2"]}
+      {"code":655,"indent":0,"parameters":["mes = \"#{g_a}は幼児用武器でないと装備できない。\\"]}
+      {"code":655,"indent":0,"parameters":["\\n#{g_a}の装備が外れた。\""]}
+      {"code":655,"indent":0,"parameters":["      $game_message.add(mes)"]}
+      {"code":655,"indent":0,"parameters":["     end;end;end;end;end"]}
+      {"code":118,"indent":0,"parameters":["幼児用武器タイプ:4"]}
+      {"code":355,"indent":0,"parameters":["mes_ed = 0"]}
+      {"code":655,"indent":0,"parameters":[" if $game_actors[1].state?(28); for i in 2..3"]}
+      {"code":655,"indent":0,"parameters":["   if $game_actors[1].equips[i] != nil"]}
+      {"code":655,"indent":0,"parameters":["    if $game_actors[1].equips[i].id >0"]}
+      {"code":655,"indent":0,"parameters":["    acwep = $game_actors[1].equips[i].id"]}
+      {"code":655,"indent":0,"parameters":["    unless $data_armors[acwep].atype_id == 7"]}
+      {"code":655,"indent":0,"parameters":["    remove_equip(1, i+1);g_a = $game_actors[1].name"]}
+      {"code":655,"indent":0,"parameters":["     unless mes_ed == 1; mes_ed = 1"]}
+      {"code":655,"indent":0,"parameters":["$game_message.position = 2"]}
+      {"code":655,"indent":0,"parameters":["mes = \"#{g_a}は幼児用の防具でないと装備できない。\\"]}
+      {"code":655,"indent":0,"parameters":["\\n#{g_a}の装備が外れた。\";$game_message.add(mes)"]}
+      {"code":655,"indent":0,"parameters":["end;end;end;end;end;end"]}
+      {"code":355,"indent":0,"parameters":["mes_ed =[0,0,0,0];for i in 2..4"]}
+      {"code":655,"indent":0,"parameters":["if $game_actors[i].state?(28)"]}
+      {"code":655,"indent":0,"parameters":["  for j in 1..3;if $game_actors[i].equips[j] != nil"]}
+      {"code":655,"indent":0,"parameters":["    if $game_actors[i].equips[j].id >0"]}
+      {"code":655,"indent":0,"parameters":["     acamr = $game_actors[i].equips[j].id"]}
+      {"code":655,"indent":0,"parameters":["     unless $data_armors[acamr].atype_id == 7"]}
+      {"code":655,"indent":0,"parameters":["    remove_equip(i, j+1);g_a = $game_actors[i].name"]}
+      {"code":655,"indent":0,"parameters":["unless mes_ed[i] == 1;mes_ed[i] =1"]}
+      {"code":655,"indent":0,"parameters":["$game_message.position = 2"]}
+      {"code":655,"indent":0,"parameters":["mes = \"#{g_a}は幼児用防具でないと装備できない。\\"]}
+      {"code":655,"indent":0,"parameters":["\\n#{g_a}の装備が外れた。\""]}
+      {"code":655,"indent":0,"parameters":[" $game_message.add(mes);end;end;end;end;end;end;end"]}
+      {"code":118,"indent":0,"parameters":["幼児用防具タイプ:7"]}
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 6 ("ECチェック")
+      {"code":111,"indent":0,"parameters":[4,1,5,219]}
+      {"code":111,"indent":1,"parameters":[4,1,6,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[1]には幼児化の呪いがかかっている。"]}
+      {"code":401,"indent":2,"parameters":["\\N[1]は幼児化した。"]}
+      {"code":313,"indent":2,"parameters":[0,1,0,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":355,"indent":1,"parameters":["actor = $data_actors[1]"]}
+      {"code":655,"indent":1,"parameters":["actor.description = \"呪いの装備を付け、ずっと幼児\\"]}
+      {"code":655,"indent":1,"parameters":["として生きることになった\\nアルバン。身長だけは並の\\"]}
+      {"code":655,"indent":1,"parameters":["ファイアインプぐらいになった。\""]}
+      {"code":324,"indent":1,"parameters":[1,"ベビーインプ"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,2,5,219]}
+      {"code":111,"indent":1,"parameters":[4,2,6,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[2]には幼児化の呪いがかかっている。"]}
+      {"code":401,"indent":2,"parameters":["\\N[2]は幼児化した。"]}
+      {"code":313,"indent":2,"parameters":[0,2,0,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":355,"indent":1,"parameters":["actor = $data_actors[2]"]}
+      {"code":655,"indent":1,"parameters":["actor.description = \"呪いの装備を付け、ずっと幼児\\"]}
+      {"code":655,"indent":1,"parameters":["として生きることになった\\nラディア。最近おしゃぶ\\"]}
+      {"code":655,"indent":1,"parameters":["りにも慣れたらしい。\""]}
+      {"code":324,"indent":1,"parameters":[2,"薄明の幼児"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,3,5,219]}
+      {"code":111,"indent":1,"parameters":[4,3,6,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[3]には幼児化の呪いがかかっている。"]}
+      {"code":401,"indent":2,"parameters":["\\N[3]は幼児化した。"]}
+      {"code":313,"indent":2,"parameters":[0,3,0,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":355,"indent":1,"parameters":["actor = $data_actors[3]"]}
+      {"code":655,"indent":1,"parameters":["actor.description = \"呪いの装備を付け、ずっと幼児\\"]}
+      {"code":655,"indent":1,"parameters":["として生きることになった\\nトト。よちよち歩きができ\\"]}
+      {"code":655,"indent":1,"parameters":["るようになった。\""]}
+      {"code":324,"indent":1,"parameters":[3,"トドラーノーム"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,4,5,219]}
+      {"code":111,"indent":1,"parameters":[4,4,6,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[4]には幼児化の呪いがかかっている。"]}
+      {"code":401,"indent":2,"parameters":["\\N[4]は幼児化した。"]}
+      {"code":313,"indent":2,"parameters":[0,4,0,28]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":355,"indent":1,"parameters":["actor = $data_actors[4]"]}
+      {"code":655,"indent":1,"parameters":["actor.description = \"呪いの装備を付け、ずっと幼児\\"]}
+      {"code":655,"indent":1,"parameters":["として生きることになった\\nエミリー。師匠はおかま\\"]}
+      {"code":655,"indent":1,"parameters":["いなしに修行をさせてくるらしいが。\""]}
+      {"code":324,"indent":1,"parameters":[4,"リトルデーモン"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 7 ("肉鎧チェック")
+      {"code":111,"indent":0,"parameters":[4,1,5,220]}
+      {"code":111,"indent":1,"parameters":[4,1,6,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[1]には肉塊化の呪いがかかっている。"]}
+      {"code":401,"indent":2,"parameters":["\\N[1]は肉塊化した。"]}
+      {"code":313,"indent":2,"parameters":[0,1,0,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":355,"indent":1,"parameters":["actor = $data_actors[1]"]}
+      {"code":655,"indent":1,"parameters":["actor.description = \"呪いの装備を付け、肉塊として\\"]}
+      {"code":655,"indent":1,"parameters":["生きることになったアルバン。\\n絶え間ない空腹に悩\\"]}
+      {"code":655,"indent":1,"parameters":["まされている。\""]}
+      {"code":324,"indent":1,"parameters":[1,"肉塊インプ"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,2,5,220]}
+      {"code":111,"indent":1,"parameters":[4,2,6,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[2]には肉塊化の呪いがかかっている。"]}
+      {"code":401,"indent":2,"parameters":["\\N[2]は肉塊化した。"]}
+      {"code":313,"indent":2,"parameters":[0,2,0,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":355,"indent":1,"parameters":["actor = $data_actors[2]"]}
+      {"code":655,"indent":1,"parameters":["actor.description = \"呪いの装備を付け、肉塊として\\"]}
+      {"code":655,"indent":1,"parameters":["生きることになったラディア。\\n使命よりも、明日の\\"]}
+      {"code":655,"indent":1,"parameters":["ご飯のほうが目下の心配ごとだ。\""]}
+      {"code":324,"indent":1,"parameters":[2,"輝く肉の山"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,3,5,220]}
+      {"code":111,"indent":1,"parameters":[4,3,6,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[3]には肉塊化の呪いがかかっている。"]}
+      {"code":401,"indent":2,"parameters":["\\N[3]は肉塊化した。"]}
+      {"code":313,"indent":2,"parameters":[0,3,0,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":355,"indent":1,"parameters":["actor = $data_actors[3]"]}
+      {"code":655,"indent":1,"parameters":["actor.description = \"呪いの装備を付け、肉塊として\\"]}
+      {"code":655,"indent":1,"parameters":["生きることになったトト。\\nお目付け役を果たす意志は\\"]}
+      {"code":655,"indent":1,"parameters":["あるようだが、食欲に負けがち。\""]}
+      {"code":324,"indent":1,"parameters":[3,"ホワイトミートノーム"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,4,5,220]}
+      {"code":111,"indent":1,"parameters":[4,4,6,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[4]には肉塊化の呪いがかかっている。"]}
+      {"code":401,"indent":2,"parameters":["\\N[4]は肉塊化した。"]}
+      {"code":313,"indent":2,"parameters":[0,4,0,27]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":355,"indent":1,"parameters":["actor = $data_actors[4]"]}
+      {"code":655,"indent":1,"parameters":["actor.description = \"呪いの装備を付け、肉塊として\\"]}
+      {"code":655,"indent":1,"parameters":["生きることになったエミリー。\\n師匠曰く、外せるが面\\"]}
+      {"code":655,"indent":1,"parameters":["白いのでもうしばらく放置、だそうだ。\""]}
+      {"code":324,"indent":1,"parameters":[4,"グラットンデーモン"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 8 ("空腹チェッカー")
+      {"code":111,"indent":0,"parameters":[4,1,6,27]}
+      {"code":122,"indent":1,"parameters":[1,1,0,3,7,3,0]}
+      {"code":111,"indent":1,"parameters":[1,5,0,0,0]}
+      {"code":122,"indent":2,"parameters":[5,5,0,1,1]}
+      {"code":122,"indent":2,"parameters":[5,5,1,0,500]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,1,6,29]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,5,1,1,0]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["\\N[1]のお腹が大きな音を立てた……。"]}
+      {"code":401,"indent":4,"parameters":["\\N[1]は空腹になった。"]}
+      {"code":313,"indent":4,"parameters":[0,1,0,29]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":313,"indent":1,"parameters":[0,1,1,29]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,2,6,27]}
+      {"code":122,"indent":1,"parameters":[2,2,0,3,7,3,0]}
+      {"code":111,"indent":1,"parameters":[1,6,0,0,0]}
+      {"code":122,"indent":2,"parameters":[6,6,0,1,2]}
+      {"code":122,"indent":2,"parameters":[6,6,1,0,500]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,2,6,29]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,6,1,2,0]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["\\N[2]のお腹が大きな音を立てた……。"]}
+      {"code":401,"indent":4,"parameters":["\\N[2]は空腹になった。"]}
+      {"code":313,"indent":4,"parameters":[0,2,0,29]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":313,"indent":1,"parameters":[0,2,1,29]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,3,6,27]}
+      {"code":122,"indent":1,"parameters":[3,3,0,3,7,3,0]}
+      {"code":111,"indent":1,"parameters":[1,7,0,0,0]}
+      {"code":122,"indent":2,"parameters":[7,7,0,1,3]}
+      {"code":122,"indent":2,"parameters":[7,7,1,0,500]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,3,6,29]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,7,1,3,0]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["\\N[3]のお腹が大きな音を立てた……。"]}
+      {"code":401,"indent":4,"parameters":["\\N[3]は空腹になった。"]}
+      {"code":313,"indent":4,"parameters":[0,3,0,29]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":313,"indent":1,"parameters":[0,3,1,29]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[4,4,6,27]}
+      {"code":122,"indent":1,"parameters":[4,4,0,3,7,3,0]}
+      {"code":111,"indent":1,"parameters":[1,8,0,0,0]}
+      {"code":122,"indent":2,"parameters":[8,8,0,1,4]}
+      {"code":122,"indent":2,"parameters":[8,8,1,0,500]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[4,4,6,29]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,8,1,4,0]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["\\N[4]のお腹が大きな音を立てた……。"]}
+      {"code":401,"indent":4,"parameters":["\\N[4]は空腹になった。"]}
+      {"code":313,"indent":4,"parameters":[0,4,0,29]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":313,"indent":1,"parameters":[0,4,1,29]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 9 ("空腹リセット")
+      {"code":122,"indent":0,"parameters":[5,5,0,0,0]}
+      {"code":122,"indent":0,"parameters":[6,6,0,0,0]}
+      {"code":122,"indent":0,"parameters":[7,7,0,0,0]}
+      {"code":122,"indent":0,"parameters":[8,8,0,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 10 ("よいくすりや")
+      {"code":122,"indent":0,"parameters":[19,19,0,3,7,3,0]}
+      {"code":111,"indent":0,"parameters":[4,4,0]}
+      {"code":101,"indent":1,"parameters":["",0,0,2]}
+      {"code":401,"indent":1,"parameters":["あら、エミリーと愉快な仲間たちじゃない。"]}
+      {"code":401,"indent":1,"parameters":["今日の用事はなに？"]}
+      {"code":101,"indent":1,"parameters":["",0,0,2]}
+      {"code":401,"indent":1,"parameters":["「明日の戦闘で使える！錬金術の秘伝！」"]}
+      {"code":401,"indent":1,"parameters":["を習いに来たの？それとも買い物？"]}
+      {"code":102,"indent":1,"parameters":[["秘伝を教わりに来た", "買い物にきた", "やっぱりいいです"],2,0,2,0]}
+      {"code":402,"indent":1,"parameters":[0,"秘伝を教わりに来た"]}
+      {"code":117,"indent":2,"parameters":[11]}
+      {"code":115,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":402,"indent":1,"parameters":[1,"買い物にきた"]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["では、コホン……。"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":402,"indent":1,"parameters":[2,"やっぱりいいです"]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["あら、そう？残念ね。"]}
+      {"code":115,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":404,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["",0,0,2]}
+      {"code":401,"indent":0,"parameters":["いらっしゃい、ここは特別な薬を売ってるわよ。"]}
+      {"code":401,"indent":0,"parameters":["一回につき、1種類の薬を2つセットでしか"]}
+      {"code":401,"indent":0,"parameters":["売れないわ。理由？作るのが手間だから。"]}
+      {"code":101,"indent":0,"parameters":["",0,0,2]}
+      {"code":401,"indent":0,"parameters":["値段は……"]}
+      {"code":401,"indent":0,"parameters":["すばやくノビール人間用とダイエット薬が300G、"]}
+      {"code":401,"indent":0,"parameters":["万能薬が500Gってとこね。"]}
+      {"code":401,"indent":0,"parameters":["補充にも時間がかかるわ。手間だから。"]}
+      {"code":111,"indent":0,"parameters":[1,19,1,20,1]}
+      {"code":101,"indent":1,"parameters":["",0,0,2]}
+      {"code":401,"indent":1,"parameters":["そういうことで、今は新しい薬が買えるわ。"]}
+      {"code":401,"indent":1,"parameters":["どれにする？"]}
+      {"code":102,"indent":1,"parameters":[["すばやくノビール人間用", "ダイエット薬", "万能薬", "やっぱりいらない"],3,0,2,0]}
+      {"code":402,"indent":1,"parameters":[0,"すばやくノビール人間用"]}
+      {"code":111,"indent":2,"parameters":[7,300,0]}
+      {"code":250,"indent":3,"parameters":[{"name":"Coin","pan":0,"pitch":120,"volume":80}]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["すばやくノビール人間用を2つ買った。"]}
+      {"code":125,"indent":3,"parameters":[1,0,300]}
+      {"code":126,"indent":3,"parameters":[14,0,0,2]}
+      {"code":122,"indent":3,"parameters":[20,20,1,0,3000]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["まいどどうも。"]}
+      {"code":401,"indent":3,"parameters":["他の店に浮気しちゃいけないわよ？"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["お金が足りないみたいね……。"]}
+      {"code":401,"indent":3,"parameters":["知り合いだからって、安くはしないわよ？"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":402,"indent":1,"parameters":[1,"ダイエット薬"]}
+      {"code":111,"indent":2,"parameters":[7,300,0]}
+      {"code":250,"indent":3,"parameters":[{"name":"Coin","pan":0,"pitch":120,"volume":80}]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["ダイエット薬を2つ買った。"]}
+      {"code":125,"indent":3,"parameters":[1,0,300]}
+      {"code":126,"indent":3,"parameters":[15,0,0,2]}
+      {"code":122,"indent":3,"parameters":[20,20,1,0,3000]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["またウチのタイムセールを見に来てね！"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["お金が足りないみたいね……。"]}
+      {"code":401,"indent":3,"parameters":["知り合いだからって、安くはしないわよ？"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":402,"indent":1,"parameters":[2,"万能薬"]}
+      {"code":111,"indent":2,"parameters":[7,500,0]}
+      {"code":250,"indent":3,"parameters":[{"name":"Coin","pan":0,"pitch":120,"volume":80}]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["万能薬を2つ買った。"]}
+      {"code":125,"indent":3,"parameters":[1,0,500]}
+      {"code":126,"indent":3,"parameters":[16,0,0,2]}
+      {"code":122,"indent":3,"parameters":[20,20,1,0,3000]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["お友達にも、宣伝よろしくね！"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["お金が足りないみたいね……。"]}
+      {"code":401,"indent":3,"parameters":["知り合いだからって、安くはしないわよ？"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":402,"indent":1,"parameters":[3,"やっぱりいらない"]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["あら、そう？残念ね。"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":404,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":101,"indent":1,"parameters":["",0,0,2]}
+      {"code":401,"indent":1,"parameters":["そういうことで、今はまだできてないわ。"]}
+      {"code":401,"indent":1,"parameters":["もう少しダンジョンででも時間を潰して、"]}
+      {"code":401,"indent":1,"parameters":["それから来てちょうだい。"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 11 ("よい秘伝や")
+      {"code":101,"indent":0,"parameters":["",0,0,2]}
+      {"code":401,"indent":0,"parameters":["今はこのイベントに中身はないわ。"]}
+      {"code":401,"indent":0,"parameters":["ホントはエミリーに秘伝を教えるらしいけど。"]}
+      {"code":401,"indent":0,"parameters":["怠慢ね。"]}
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 12 ("てきとうに調合する")
+      {"code":122,"indent":0,"parameters":[21,21,0,2,1,20]}
+      {"code":111,"indent":0,"parameters":[1,21,0,1,2]}
+      {"code":101,"indent":1,"parameters":["",0,0,2]}
+      {"code":401,"indent":1,"parameters":["調合途中の薬が爆発した！"]}
+      {"code":401,"indent":1,"parameters":["ピンクの液体が味方に降り注ぐ！"]}
+      {"code":250,"indent":1,"parameters":[{"name":"Earth1","pan":0,"pitch":70,"volume":100}]}
+      {"code":230,"indent":1,"parameters":[40]}
+      {"code":313,"indent":1,"parameters":[0,0,0,27]}
+      {"code":101,"indent":1,"parameters":["",0,0,2]}
+      {"code":401,"indent":1,"parameters":["パーティ全員が肉塊化してしまった！"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[1,21,0,2,2]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["\\N[4]は完成した薬を敵に向かって投げた！"]}
+      {"code":401,"indent":2,"parameters":["敵に青い液体がかかった！"]}
+      {"code":337,"indent":2,"parameters":[-1,41]}
+      {"code":331,"indent":2,"parameters":[-1,0,0,300,false]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["敵全体が300回復した！"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[1,21,0,4,2]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["\\N[4]は完成した薬を敵に向かって投げた！"]}
+      {"code":401,"indent":3,"parameters":["敵にいかにも毒々しい緑色の液体がかかった！"]}
+      {"code":337,"indent":3,"parameters":[-1,50]}
+      {"code":333,"indent":3,"parameters":[-1,0,2]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["敵は毒に侵された！"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,21,0,6,2]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["\\N[4]は完成した薬を敵に向かって投げた！"]}
+      {"code":401,"indent":4,"parameters":["敵に透明な液体がかかった！"]}
+      {"code":337,"indent":4,"parameters":[-1,53]}
+      {"code":333,"indent":4,"parameters":[-1,0,5]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["敵は混乱したようだ！"]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":111,"indent":4,"parameters":[1,21,0,8,2]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["\\N[4]は完成した薬を敵に向かって投げた！"]}
+      {"code":401,"indent":5,"parameters":["敵に透明な液体がかかった！"]}
+      {"code":337,"indent":5,"parameters":[-1,36]}
+      {"code":333,"indent":5,"parameters":[-1,0,8]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["敵はひるんだ！"]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":411,"indent":4,"parameters":[]}
+      {"code":111,"indent":5,"parameters":[1,21,0,10,2]}
+      {"code":101,"indent":6,"parameters":["",0,0,2]}
+      {"code":401,"indent":6,"parameters":["\\N[4]は完成した薬を敵に向かって投げた！"]}
+      {"code":401,"indent":6,"parameters":["敵に墨のように黒い液体がかかった！"]}
+      {"code":337,"indent":6,"parameters":[-1,51]}
+      {"code":333,"indent":6,"parameters":[-1,0,3]}
+      {"code":101,"indent":6,"parameters":["",0,0,2]}
+      {"code":401,"indent":6,"parameters":["敵は前が見えなくなったようだ！"]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":411,"indent":5,"parameters":[]}
+      {"code":111,"indent":6,"parameters":[1,21,0,15,2]}
+      {"code":101,"indent":7,"parameters":["",0,0,2]}
+      {"code":401,"indent":7,"parameters":["\\N[4]は完成した薬を敵に向かって投げた！"]}
+      {"code":401,"indent":7,"parameters":["敵に透明な液体がかかった！"]}
+      {"code":230,"indent":7,"parameters":[60]}
+      {"code":101,"indent":7,"parameters":["",0,0,2]}
+      {"code":401,"indent":7,"parameters":["……何もおきない。"]}
+      {"code":0,"indent":7,"parameters":[]}
+      {"code":411,"indent":6,"parameters":[]}
+      {"code":111,"indent":7,"parameters":[1,21,0,17,0]}
+      {"code":101,"indent":8,"parameters":["",0,0,2]}
+      {"code":401,"indent":8,"parameters":["\\N[4]は調合に失敗した！"]}
+      {"code":401,"indent":8,"parameters":["調合途中の薬が味方に降り注ぐ！"]}
+      {"code":250,"indent":8,"parameters":[{"name":"Heal3","pan":0,"pitch":100,"volume":80}]}
+      {"code":230,"indent":8,"parameters":[30]}
+      {"code":311,"indent":8,"parameters":[0,0,0,0,150,false]}
+      {"code":101,"indent":8,"parameters":["",0,0,2]}
+      {"code":401,"indent":8,"parameters":["パーティ全員のHPが150回復した。"]}
+      {"code":0,"indent":8,"parameters":[]}
+      {"code":411,"indent":7,"parameters":[]}
+      {"code":111,"indent":8,"parameters":[1,21,0,19,2]}
+      {"code":101,"indent":9,"parameters":["",0,0,2]}
+      {"code":401,"indent":9,"parameters":["\\n[4]は調合に失敗した！"]}
+      {"code":401,"indent":9,"parameters":["調合途中の薬が爆発した！"]}
+      {"code":250,"indent":9,"parameters":[{"name":"Damage4","pan":0,"pitch":80,"volume":80}]}
+      {"code":230,"indent":9,"parameters":[30]}
+      {"code":311,"indent":9,"parameters":[0,4,1,0,300,false]}
+      {"code":101,"indent":9,"parameters":["",0,0,2]}
+      {"code":401,"indent":9,"parameters":["\\N[4]は300ダメージを受けた。"]}
+      {"code":0,"indent":9,"parameters":[]}
+      {"code":411,"indent":8,"parameters":[]}
+      {"code":111,"indent":9,"parameters":[1,21,0,20,0]}
+      {"code":101,"indent":10,"parameters":["",0,0,2]}
+      {"code":401,"indent":10,"parameters":["\\N[4]は完成した自信作を敵に向かって投げた！"]}
+      {"code":401,"indent":10,"parameters":["敵にどす黒い液体がかかった！"]}
+      {"code":337,"indent":10,"parameters":[-1,78]}
+      {"code":331,"indent":10,"parameters":[-1,1,0,3000,true]}
+      {"code":101,"indent":10,"parameters":["",0,0,2]}
+      {"code":401,"indent":10,"parameters":["敵に3000ダメージを与えた！"]}
+      {"code":0,"indent":10,"parameters":[]}
+      {"code":411,"indent":9,"parameters":[]}
+      {"code":0,"indent":10,"parameters":[]}
+      {"code":412,"indent":9,"parameters":[]}
+      {"code":0,"indent":9,"parameters":[]}
+      {"code":412,"indent":8,"parameters":[]}
+      {"code":0,"indent":8,"parameters":[]}
+      {"code":412,"indent":7,"parameters":[]}
+      {"code":0,"indent":7,"parameters":[]}
+      {"code":412,"indent":6,"parameters":[]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":412,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 13 ("肥満化・肥満重複で肉塊")
+      {"code":355,"indent":0,"parameters":["double_fattening_by_SINGLETARGET_item"]}
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 14 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 15 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 16 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 17 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 18 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 19 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 20 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 21 ("肥満化アタック")
+      {"code":122,"indent":0,"parameters":[23,23,0,2,1,100]}
+      {"code":111,"indent":0,"parameters":[4,4,0]}
+      {"code":122,"indent":1,"parameters":[22,22,0,2,1,4]}
+      {"code":111,"indent":1,"parameters":[1,22,0,1,0]}
+      {"code":111,"indent":2,"parameters":[4,1,6,26]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["\\N[1]は攻撃を受け、さらに肥満化していく！"]}
+      {"code":250,"indent":3,"parameters":[{"name":"Earth2","pan":0,"pitch":70,"volume":100}]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["\\N[1]の身体はみるみるうちに肉の塊になった！"]}
+      {"code":313,"indent":3,"parameters":[0,1,0,27]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[4,1,6,27]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["\\N[1]はこれ以上肥らない。"]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["\\N[1]は肥満体系になった！"]}
+      {"code":250,"indent":4,"parameters":[{"name":"Heal5","pan":0,"pitch":80,"volume":100}]}
+      {"code":313,"indent":4,"parameters":[0,1,0,26]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[1,22,0,2,0]}
+      {"code":111,"indent":3,"parameters":[4,2,6,26]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["\\N[2]は攻撃を受け、さらに肥満化していく！"]}
+      {"code":250,"indent":4,"parameters":[{"name":"Earth2","pan":0,"pitch":70,"volume":100}]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["\\N[2]の身体はみるみるうちに肉の塊になった！"]}
+      {"code":313,"indent":4,"parameters":[0,2,0,27]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":111,"indent":4,"parameters":[4,2,6,27]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["\\N[2]はこれ以上肥らない。"]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":411,"indent":4,"parameters":[]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["\\N[2]は肥満体系になった！"]}
+      {"code":250,"indent":5,"parameters":[{"name":"Heal5","pan":0,"pitch":80,"volume":100}]}
+      {"code":313,"indent":5,"parameters":[0,2,0,26]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,22,0,3,0]}
+      {"code":111,"indent":4,"parameters":[4,3,6,26]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["\\N[3]は攻撃を受け、さらに肥満化していく！"]}
+      {"code":250,"indent":5,"parameters":[{"name":"Earth2","pan":0,"pitch":70,"volume":100}]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["\\N[3]の身体はみるみるうちに肉の塊になった！"]}
+      {"code":313,"indent":5,"parameters":[0,3,0,27]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":411,"indent":4,"parameters":[]}
+      {"code":111,"indent":5,"parameters":[4,3,6,27]}
+      {"code":101,"indent":6,"parameters":["",0,0,2]}
+      {"code":401,"indent":6,"parameters":["\\N[3]はこれ以上肥らない。"]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":411,"indent":5,"parameters":[]}
+      {"code":101,"indent":6,"parameters":["",0,0,2]}
+      {"code":401,"indent":6,"parameters":["\\N[3]は肥満体系になった！"]}
+      {"code":250,"indent":6,"parameters":[{"name":"Heal5","pan":0,"pitch":80,"volume":100}]}
+      {"code":313,"indent":6,"parameters":[0,3,0,26]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":412,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":111,"indent":4,"parameters":[1,22,0,4,0]}
+      {"code":111,"indent":5,"parameters":[4,4,6,26]}
+      {"code":101,"indent":6,"parameters":["",0,0,2]}
+      {"code":401,"indent":6,"parameters":["\\N[4]は攻撃を受け、さらに肥満化していく！"]}
+      {"code":250,"indent":6,"parameters":[{"name":"Earth2","pan":0,"pitch":70,"volume":100}]}
+      {"code":101,"indent":6,"parameters":["",0,0,2]}
+      {"code":401,"indent":6,"parameters":["\\N[4]の身体はみるみるうちに肉の塊になった！"]}
+      {"code":313,"indent":6,"parameters":[0,4,0,27]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":411,"indent":5,"parameters":[]}
+      {"code":111,"indent":6,"parameters":[4,4,6,27]}
+      {"code":101,"indent":7,"parameters":["",0,0,2]}
+      {"code":401,"indent":7,"parameters":["\\N[4]は肥満体系になった！"]}
+      {"code":0,"indent":7,"parameters":[]}
+      {"code":411,"indent":6,"parameters":[]}
+      {"code":101,"indent":7,"parameters":["",0,0,2]}
+      {"code":401,"indent":7,"parameters":["\\N[4]は肥満体系になった！"]}
+      {"code":250,"indent":7,"parameters":[{"name":"Heal5","pan":0,"pitch":80,"volume":100}]}
+      {"code":313,"indent":7,"parameters":[0,4,0,26]}
+      {"code":0,"indent":7,"parameters":[]}
+      {"code":412,"indent":6,"parameters":[]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":412,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":122,"indent":1,"parameters":[22,22,0,2,1,3]}
+      {"code":111,"indent":1,"parameters":[1,22,0,1,0]}
+      {"code":111,"indent":2,"parameters":[4,1,6,26]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["\\N[1]は攻撃を受け、さらに肥満化していく！"]}
+      {"code":250,"indent":3,"parameters":[{"name":"Earth2","pan":0,"pitch":70,"volume":100}]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["\\N[1]の身体はみるみるうちに肉の塊になった！"]}
+      {"code":313,"indent":3,"parameters":[0,1,0,27]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[4,1,6,27]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["\\N[1]はこれ以上肥らない。"]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["\\N[1]は肥満体系になった！"]}
+      {"code":250,"indent":4,"parameters":[{"name":"Heal5","pan":0,"pitch":80,"volume":100}]}
+      {"code":313,"indent":4,"parameters":[0,1,0,26]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[1,22,0,2,0]}
+      {"code":111,"indent":3,"parameters":[4,2,6,26]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["\\N[2]は攻撃を受け、さらに肥満化していく！"]}
+      {"code":250,"indent":4,"parameters":[{"name":"Earth2","pan":0,"pitch":70,"volume":100}]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["\\N[2]の身体はみるみるうちに肉の塊になった！"]}
+      {"code":313,"indent":4,"parameters":[0,2,0,27]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":111,"indent":4,"parameters":[4,2,6,27]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["\\N[2]はこれ以上肥らない。"]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":411,"indent":4,"parameters":[]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["\\N[2]は肥満体系になった！"]}
+      {"code":250,"indent":5,"parameters":[{"name":"Heal5","pan":0,"pitch":80,"volume":100}]}
+      {"code":313,"indent":5,"parameters":[0,2,0,26]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,22,0,3,0]}
+      {"code":111,"indent":4,"parameters":[4,3,6,26]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["\\N[3]は攻撃を受け、さらに肥満化していく！"]}
+      {"code":250,"indent":5,"parameters":[{"name":"Earth2","pan":0,"pitch":70,"volume":100}]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["\\N[3]の身体はみるみるうちに肉の塊になった！"]}
+      {"code":313,"indent":5,"parameters":[0,3,0,27]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":411,"indent":4,"parameters":[]}
+      {"code":111,"indent":5,"parameters":[4,3,6,27]}
+      {"code":101,"indent":6,"parameters":["",0,0,2]}
+      {"code":401,"indent":6,"parameters":["\\N[3]はこれ以上肥らない。"]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":411,"indent":5,"parameters":[]}
+      {"code":101,"indent":6,"parameters":["",0,0,2]}
+      {"code":401,"indent":6,"parameters":["\\N[3]は肥満体系になった！"]}
+      {"code":250,"indent":6,"parameters":[{"name":"Heal5","pan":0,"pitch":80,"volume":100}]}
+      {"code":313,"indent":6,"parameters":[0,3,0,26]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":412,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 22 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 23 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 24 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 25 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 26 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 27 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 28 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 29 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 30 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 31 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 32 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 33 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 34 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 35 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 36 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 37 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 38 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 39 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 40 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 41 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 42 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 43 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 44 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 45 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 46 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 47 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 48 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 49 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 50 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map001.rvdata2 ()
+  Event 1 ("EV001" @ 0,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":117,"indent":0,"parameters":[1]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 1,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":117,"indent":0,"parameters":[2]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 9,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":126,"indent":0,"parameters":[35,0,0,1]}
+      {"code":126,"indent":0,"parameters":[37,0,0,1]}
+      {"code":127,"indent":0,"parameters":[62,0,0,1,false]}
+      {"code":128,"indent":0,"parameters":[66,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map002.rvdata2 ()
+  Event 1 ("EV001" @ 0,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":121,"indent":0,"parameters":[20,20,0]}
+      {"code":137,"indent":0,"parameters":[0]}
+      {"code":211,"indent":0,"parameters":[1]}
+      {"code":126,"indent":0,"parameters":[79,0,0,1]}
+      {"code":126,"indent":0,"parameters":[80,0,0,1]}
+      {"code":126,"indent":0,"parameters":[78,0,0,1]}
+      {"code":126,"indent":0,"parameters":[77,0,0,1]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 13,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":355,"indent":0,"parameters":["p $data_actors[1].nickname"]}
+      {"code":355,"indent":0,"parameters":["if $game_actors[1].weapons[0] != nil"]}
+      {"code":655,"indent":0,"parameters":[" p $game_actors[1].weapons[0].id"]}
+      {"code":655,"indent":0,"parameters":[" acwep = $game_actors[1].weapons[0].id"]}
+      {"code":655,"indent":0,"parameters":[" p $data_weapons[acwep].wtype_id"]}
+      {"code":655,"indent":0,"parameters":["end"]}
+      {"code":355,"indent":0,"parameters":["if $game_actors[1].states != nil"]}
+      {"code":655,"indent":0,"parameters":[" p $game_actors[1].states"]}
+      {"code":655,"indent":0,"parameters":["end"]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 9,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":126,"indent":0,"parameters":[38,0,0,1]}
+      {"code":126,"indent":0,"parameters":[39,0,0,1]}
+      {"code":126,"indent":0,"parameters":[15,0,0,1]}
+      {"code":126,"indent":0,"parameters":[18,0,0,1]}
+      {"code":128,"indent":0,"parameters":[220,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 5,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":126,"indent":0,"parameters":[37,0,0,1]}
+      {"code":126,"indent":0,"parameters":[14,0,0,1]}
+      {"code":127,"indent":0,"parameters":[62,0,0,1,false]}
+      {"code":128,"indent":0,"parameters":[66,0,0,1,false]}
+      {"code":128,"indent":0,"parameters":[219,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 7,3)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":301,"indent":0,"parameters":[0,8,false,false]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map003.rvdata2 ()
+  Event 1 ("EV001" @ 37,32)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":44,"indent":null,"parameters":[{"name":"Blow6","pan":0,"pitch":65,"volume":80}]}
+        {"code":15,"indent":null,"parameters":[15]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[15]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":44,"indent":null,"parameters":[{"name":"Blow6","pan":0,"pitch":65,"volume":80}]},{"code":15,"indent":null,"parameters":[15]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[15]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":44,"indent":null,"parameters":[{"name":"Blow6","pan":0,"pitch":65,"volume":80}]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[15]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[15]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+      {"code":123,"indent":0,"parameters":["A",0]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":123,"indent":0,"parameters":["A",1]}
+      {"code":201,"indent":0,"parameters":[0,3,37,33,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 23,31)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":117,"indent":0,"parameters":[8]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 21,4)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 21,3)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 21,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 23,13)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 7 ("EV007" @ 30,28)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 8 ("EV008" @ 23,11)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 9 ("EV009" @ 30,26)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 10 ("EV010" @ 34,5)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,3,34,6,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 11 ("EV011" @ 17,31)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":126,"indent":0,"parameters":[37,0,0,1]}
+      {"code":126,"indent":0,"parameters":[14,0,0,1]}
+      {"code":127,"indent":0,"parameters":[62,0,0,1,false]}
+      {"code":128,"indent":0,"parameters":[66,0,0,1,false]}
+      {"code":128,"indent":0,"parameters":[219,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 12 ("EV012" @ 21,31)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":126,"indent":0,"parameters":[38,0,0,1]}
+      {"code":126,"indent":0,"parameters":[15,0,0,1]}
+      {"code":126,"indent":0,"parameters":[18,0,0,1]}
+      {"code":128,"indent":0,"parameters":[220,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 13 ("EV013" @ 0,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":121,"indent":0,"parameters":[20,20,0]}
+      {"code":137,"indent":0,"parameters":[0]}
+      {"code":211,"indent":0,"parameters":[1]}
+      {"code":126,"indent":0,"parameters":[79,0,0,1]}
+      {"code":126,"indent":0,"parameters":[80,0,0,1]}
+      {"code":126,"indent":0,"parameters":[78,0,0,1]}
+      {"code":126,"indent":0,"parameters":[77,0,0,1]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 15 ("EV015" @ 8,25)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":301,"indent":0,"parameters":[0,2,true,false]}
+      {"code":601,"indent":0,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":602,"indent":0,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":604,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map004.rvdata2 ()
+  Event 1 ("EV001" @ 22,35)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":126,"indent":0,"parameters":[37,0,0,1]}
+      {"code":126,"indent":0,"parameters":[14,0,0,1]}
+      {"code":127,"indent":0,"parameters":[62,0,0,1,false]}
+      {"code":128,"indent":0,"parameters":[66,0,0,1,false]}
+      {"code":128,"indent":0,"parameters":[219,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":108,"indent":0,"parameters":["接触エリア;2"]}
+      {"code":126,"indent":0,"parameters":[37,0,0,1]}
+      {"code":126,"indent":0,"parameters":[14,0,0,1]}
+      {"code":127,"indent":0,"parameters":[62,0,0,1,false]}
+      {"code":128,"indent":0,"parameters":[66,0,0,1,false]}
+      {"code":128,"indent":0,"parameters":[219,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 3
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":126,"indent":0,"parameters":[37,0,0,1]}
+      {"code":126,"indent":0,"parameters":[14,0,0,1]}
+      {"code":127,"indent":0,"parameters":[62,0,0,1,false]}
+      {"code":128,"indent":0,"parameters":[66,0,0,1,false]}
+      {"code":128,"indent":0,"parameters":[219,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 25,35)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":126,"indent":0,"parameters":[38,0,0,1]}
+      {"code":126,"indent":0,"parameters":[15,0,0,1]}
+      {"code":126,"indent":0,"parameters":[18,0,0,1]}
+      {"code":128,"indent":0,"parameters":[220,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":108,"indent":0,"parameters":["接触エリア;2"]}
+      {"code":126,"indent":0,"parameters":[38,0,0,1]}
+      {"code":126,"indent":0,"parameters":[15,0,0,1]}
+      {"code":126,"indent":0,"parameters":[18,0,0,1]}
+      {"code":128,"indent":0,"parameters":[220,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 3
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":126,"indent":0,"parameters":[38,0,0,1]}
+      {"code":126,"indent":0,"parameters":[15,0,0,1]}
+      {"code":126,"indent":0,"parameters":[18,0,0,1]}
+      {"code":128,"indent":0,"parameters":[220,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 18,35)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":117,"indent":0,"parameters":[8]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 0,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":121,"indent":0,"parameters":[20,20,0]}
+      {"code":137,"indent":0,"parameters":[0]}
+      {"code":211,"indent":0,"parameters":[1]}
+      {"code":126,"indent":0,"parameters":[79,0,0,1]}
+      {"code":126,"indent":0,"parameters":[80,0,0,1]}
+      {"code":126,"indent":0,"parameters":[78,0,0,1]}
+      {"code":126,"indent":0,"parameters":[77,0,0,1]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 20,40)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[1,95,0,0,0]}
+      {"code":108,"indent":1,"parameters":["通常"]}
+      {"code":101,"indent":1,"parameters":["alban",0,0,2]}
+      {"code":401,"indent":1,"parameters":["通常"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[1,95,0,1,0]}
+      {"code":108,"indent":2,"parameters":["肥満"]}
+      {"code":101,"indent":2,"parameters":["alban-f",0,0,2]}
+      {"code":401,"indent":2,"parameters":["肥満"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[1,95,0,2,0]}
+      {"code":108,"indent":3,"parameters":["肉塊"]}
+      {"code":101,"indent":3,"parameters":["alban-ef",0,0,2]}
+      {"code":401,"indent":3,"parameters":["肉塊"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,95,0,4,0]}
+      {"code":108,"indent":4,"parameters":["幼児"]}
+      {"code":101,"indent":4,"parameters":["alban-b",0,0,2]}
+      {"code":401,"indent":4,"parameters":["幼児"]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":111,"indent":4,"parameters":[1,95,0,5,0]}
+      {"code":108,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":101,"indent":5,"parameters":["alban-fb",0,0,2]}
+      {"code":401,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":411,"indent":4,"parameters":[]}
+      {"code":111,"indent":5,"parameters":[1,95,0,6,0]}
+      {"code":108,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":101,"indent":6,"parameters":["alban-efb",0,0,2]}
+      {"code":401,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":411,"indent":5,"parameters":[]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":412,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":108,"indent":0,"parameters":["接触エリア;2"]}
+      {"code":111,"indent":0,"parameters":[1,95,0,0,0]}
+      {"code":108,"indent":1,"parameters":["通常"]}
+      {"code":101,"indent":1,"parameters":["alban",0,0,2]}
+      {"code":401,"indent":1,"parameters":["通常"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[1,95,0,1,0]}
+      {"code":108,"indent":2,"parameters":["肥満"]}
+      {"code":101,"indent":2,"parameters":["alban-f",0,0,2]}
+      {"code":401,"indent":2,"parameters":["肥満"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[1,95,0,2,0]}
+      {"code":108,"indent":3,"parameters":["肉塊"]}
+      {"code":101,"indent":3,"parameters":["alban-ef",0,0,2]}
+      {"code":401,"indent":3,"parameters":["肉塊"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,95,0,4,0]}
+      {"code":108,"indent":4,"parameters":["幼児"]}
+      {"code":101,"indent":4,"parameters":["alban-b",0,0,2]}
+      {"code":401,"indent":4,"parameters":["幼児"]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":111,"indent":4,"parameters":[1,95,0,5,0]}
+      {"code":108,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":101,"indent":5,"parameters":["alban-fb",0,0,2]}
+      {"code":401,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":411,"indent":4,"parameters":[]}
+      {"code":111,"indent":5,"parameters":[1,95,0,6,0]}
+      {"code":108,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":101,"indent":6,"parameters":["alban-efb",0,0,2]}
+      {"code":401,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":411,"indent":5,"parameters":[]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":412,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 3
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[1,95,0,0,0]}
+      {"code":108,"indent":1,"parameters":["通常"]}
+      {"code":101,"indent":1,"parameters":["alban",0,0,2]}
+      {"code":401,"indent":1,"parameters":["通常"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[1,95,0,1,0]}
+      {"code":108,"indent":2,"parameters":["肥満"]}
+      {"code":101,"indent":2,"parameters":["alban-f",0,0,2]}
+      {"code":401,"indent":2,"parameters":["肥満"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[1,95,0,2,0]}
+      {"code":108,"indent":3,"parameters":["肉塊"]}
+      {"code":101,"indent":3,"parameters":["alban-ef",0,0,2]}
+      {"code":401,"indent":3,"parameters":["肉塊"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,95,0,4,0]}
+      {"code":108,"indent":4,"parameters":["幼児"]}
+      {"code":101,"indent":4,"parameters":["alban-b",0,0,2]}
+      {"code":401,"indent":4,"parameters":["幼児"]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":111,"indent":4,"parameters":[1,95,0,5,0]}
+      {"code":108,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":101,"indent":5,"parameters":["alban-fb",0,0,2]}
+      {"code":401,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":411,"indent":4,"parameters":[]}
+      {"code":111,"indent":5,"parameters":[1,95,0,6,0]}
+      {"code":108,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":101,"indent":6,"parameters":["alban-efb",0,0,2]}
+      {"code":401,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":411,"indent":5,"parameters":[]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":412,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 25,45)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,4,25,42,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map005.rvdata2 ()
+  Event 1 ("EV001" @ 0,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":121,"indent":0,"parameters":[20,20,0]}
+      {"code":137,"indent":0,"parameters":[0]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 1,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":117,"indent":0,"parameters":[3]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map006.rvdata2 ()
+  Event 1 ("EV001" @ 29,25)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Chest","pan":0,"pitch":100,"volume":80}]}
+        {"code":36,"indent":null,"parameters":[]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":36,"indent":null,"parameters":[]},{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":36,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":123,"indent":0,"parameters":["A",0]}
+      {"code":125,"indent":0,"parameters":[0,0,0]}
+      {"code":101,"indent":0,"parameters":["",0,0,2]}
+      {"code":401,"indent":0,"parameters":["0\\G 手に入れた！"]}
+      {"code":111,"indent":0,"parameters":[1,95,0,0,0]}
+      {"code":108,"indent":1,"parameters":["通常"]}
+      {"code":101,"indent":1,"parameters":["alban",0,0,2]}
+      {"code":401,"indent":1,"parameters":["通常"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[1,95,0,1,0]}
+      {"code":108,"indent":2,"parameters":["肥満"]}
+      {"code":101,"indent":2,"parameters":["alban-f",0,0,2]}
+      {"code":401,"indent":2,"parameters":["肥満"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[1,95,0,2,0]}
+      {"code":108,"indent":3,"parameters":["肉塊"]}
+      {"code":101,"indent":3,"parameters":["alban-ef",0,0,2]}
+      {"code":401,"indent":3,"parameters":["肉塊"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,95,0,4,0]}
+      {"code":108,"indent":4,"parameters":["幼児"]}
+      {"code":101,"indent":4,"parameters":["alban-b",0,0,2]}
+      {"code":401,"indent":4,"parameters":["幼児"]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":111,"indent":4,"parameters":[1,95,0,5,0]}
+      {"code":108,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":101,"indent":5,"parameters":["alban-fb",0,0,2]}
+      {"code":401,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":411,"indent":4,"parameters":[]}
+      {"code":111,"indent":5,"parameters":[1,95,0,6,0]}
+      {"code":108,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":101,"indent":6,"parameters":["alban-efb",0,0,2]}
+      {"code":401,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":411,"indent":5,"parameters":[]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":412,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 32,26)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 32,24)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 5,44)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":126,"indent":0,"parameters":[38,0,0,1]}
+      {"code":126,"indent":0,"parameters":[15,0,0,1]}
+      {"code":126,"indent":0,"parameters":[18,0,0,1]}
+      {"code":128,"indent":0,"parameters":[220,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":108,"indent":0,"parameters":["接触エリア;2"]}
+      {"code":126,"indent":0,"parameters":[38,0,0,1]}
+      {"code":126,"indent":0,"parameters":[15,0,0,1]}
+      {"code":126,"indent":0,"parameters":[18,0,0,1]}
+      {"code":128,"indent":0,"parameters":[220,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 3
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":126,"indent":0,"parameters":[38,0,0,1]}
+      {"code":126,"indent":0,"parameters":[15,0,0,1]}
+      {"code":126,"indent":0,"parameters":[18,0,0,1]}
+      {"code":128,"indent":0,"parameters":[220,0,0,1,false]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 0,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":121,"indent":0,"parameters":[20,20,0]}
+      {"code":137,"indent":0,"parameters":[0]}
+      {"code":211,"indent":0,"parameters":[1]}
+      {"code":126,"indent":0,"parameters":[79,0,0,1]}
+      {"code":126,"indent":0,"parameters":[80,0,0,1]}
+      {"code":126,"indent":0,"parameters":[78,0,0,1]}
+      {"code":126,"indent":0,"parameters":[77,0,0,1]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 9,44)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[1,95,0,0,0]}
+      {"code":108,"indent":1,"parameters":["通常"]}
+      {"code":101,"indent":1,"parameters":["alban",0,0,2]}
+      {"code":401,"indent":1,"parameters":["通常"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[1,95,0,1,0]}
+      {"code":108,"indent":2,"parameters":["肥満"]}
+      {"code":101,"indent":2,"parameters":["alban-f",0,0,2]}
+      {"code":401,"indent":2,"parameters":["肥満"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[1,95,0,2,0]}
+      {"code":108,"indent":3,"parameters":["肉塊"]}
+      {"code":101,"indent":3,"parameters":["alban-ef",0,0,2]}
+      {"code":401,"indent":3,"parameters":["肉塊"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,95,0,4,0]}
+      {"code":108,"indent":4,"parameters":["幼児"]}
+      {"code":101,"indent":4,"parameters":["alban-b",0,0,2]}
+      {"code":401,"indent":4,"parameters":["幼児"]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":111,"indent":4,"parameters":[1,95,0,5,0]}
+      {"code":108,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":101,"indent":5,"parameters":["alban-fb",0,0,2]}
+      {"code":401,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":411,"indent":4,"parameters":[]}
+      {"code":111,"indent":5,"parameters":[1,95,0,6,0]}
+      {"code":108,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":101,"indent":6,"parameters":["alban-efb",0,0,2]}
+      {"code":401,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":411,"indent":5,"parameters":[]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":412,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":108,"indent":0,"parameters":["接触エリア;2"]}
+      {"code":111,"indent":0,"parameters":[1,95,0,0,0]}
+      {"code":108,"indent":1,"parameters":["通常"]}
+      {"code":101,"indent":1,"parameters":["alban",0,0,2]}
+      {"code":401,"indent":1,"parameters":["通常"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[1,95,0,1,0]}
+      {"code":108,"indent":2,"parameters":["肥満"]}
+      {"code":101,"indent":2,"parameters":["alban-f",0,0,2]}
+      {"code":401,"indent":2,"parameters":["肥満"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[1,95,0,2,0]}
+      {"code":108,"indent":3,"parameters":["肉塊"]}
+      {"code":101,"indent":3,"parameters":["alban-ef",0,0,2]}
+      {"code":401,"indent":3,"parameters":["肉塊"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,95,0,4,0]}
+      {"code":108,"indent":4,"parameters":["幼児"]}
+      {"code":101,"indent":4,"parameters":["alban-b",0,0,2]}
+      {"code":401,"indent":4,"parameters":["幼児"]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":111,"indent":4,"parameters":[1,95,0,5,0]}
+      {"code":108,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":101,"indent":5,"parameters":["alban-fb",0,0,2]}
+      {"code":401,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":411,"indent":4,"parameters":[]}
+      {"code":111,"indent":5,"parameters":[1,95,0,6,0]}
+      {"code":108,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":101,"indent":6,"parameters":["alban-efb",0,0,2]}
+      {"code":401,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":411,"indent":5,"parameters":[]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":412,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 3
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[1,95,0,0,0]}
+      {"code":108,"indent":1,"parameters":["通常"]}
+      {"code":101,"indent":1,"parameters":["alban",0,0,2]}
+      {"code":401,"indent":1,"parameters":["通常"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[1,95,0,1,0]}
+      {"code":108,"indent":2,"parameters":["肥満"]}
+      {"code":101,"indent":2,"parameters":["alban-f",0,0,2]}
+      {"code":401,"indent":2,"parameters":["肥満"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":111,"indent":2,"parameters":[1,95,0,2,0]}
+      {"code":108,"indent":3,"parameters":["肉塊"]}
+      {"code":101,"indent":3,"parameters":["alban-ef",0,0,2]}
+      {"code":401,"indent":3,"parameters":["肉塊"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":411,"indent":2,"parameters":[]}
+      {"code":111,"indent":3,"parameters":[1,95,0,4,0]}
+      {"code":108,"indent":4,"parameters":["幼児"]}
+      {"code":101,"indent":4,"parameters":["alban-b",0,0,2]}
+      {"code":401,"indent":4,"parameters":["幼児"]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":111,"indent":4,"parameters":[1,95,0,5,0]}
+      {"code":108,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":101,"indent":5,"parameters":["alban-fb",0,0,2]}
+      {"code":401,"indent":5,"parameters":["肥満+幼児"]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":411,"indent":4,"parameters":[]}
+      {"code":111,"indent":5,"parameters":[1,95,0,6,0]}
+      {"code":108,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":101,"indent":6,"parameters":["alban-efb",0,0,2]}
+      {"code":401,"indent":6,"parameters":["肉塊+幼児"]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":411,"indent":5,"parameters":[]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":412,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":412,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map007.rvdata2 ()
+  Event 1 ("EV001" @ 28,31)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 27,31)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 19,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Chest","pan":0,"pitch":100,"volume":80}]}
+        {"code":36,"indent":null,"parameters":[]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":36,"indent":null,"parameters":[]},{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":36,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":123,"indent":0,"parameters":["A",0]}
+      {"code":125,"indent":0,"parameters":[0,0,0]}
+      {"code":101,"indent":0,"parameters":["",0,0,2]}
+      {"code":401,"indent":0,"parameters":["0\\G 手に入れた！"]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 0,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":121,"indent":0,"parameters":[20,20,0]}
+      {"code":137,"indent":0,"parameters":[0]}
+      {"code":211,"indent":0,"parameters":[1]}
+      {"code":126,"indent":0,"parameters":[79,0,0,1]}
+      {"code":126,"indent":0,"parameters":[80,0,0,1]}
+      {"code":126,"indent":0,"parameters":[78,0,0,1]}
+      {"code":126,"indent":0,"parameters":[77,0,0,1]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 18,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 7 ("EV007" @ 19,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["",0,0,2]}
+      {"code":401,"indent":0,"parameters":["本来はここが道だったようだが、木が邪魔で通れない。"]}
+      {"code":401,"indent":0,"parameters":["別の道を探そう。"]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 8 ("EV008" @ 19,5)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["",0,0,2]}
+      {"code":401,"indent":0,"parameters":["本来はここが道だったようだが、木が邪魔で通れない。"]}
+      {"code":401,"indent":0,"parameters":["別の道を探そう。"]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 9 ("EV009" @ 18,5)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map008.rvdata2 ()
+  Event 1 ("EV001" @ 0,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":121,"indent":0,"parameters":[20,20,0]}
+      {"code":137,"indent":0,"parameters":[0]}
+      {"code":211,"indent":0,"parameters":[1]}
+      {"code":126,"indent":0,"parameters":[79,0,0,1]}
+      {"code":126,"indent":0,"parameters":[80,0,0,1]}
+      {"code":126,"indent":0,"parameters":[78,0,0,1]}
+      {"code":126,"indent":0,"parameters":[77,0,0,1]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map009.rvdata2 ()
+Map Data/Map010.rvdata2 ()
+Map Data/Map011.rvdata2 ()
+  Event 1 ("出入り口" @ 6,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,3,8,22,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,3,9,23,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("出入り口" @ 7,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,3,8,22,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,3,9,23,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("出入り口" @ 8,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,3,8,22,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,3,9,23,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 0,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":121,"indent":0,"parameters":[20,20,0]}
+      {"code":137,"indent":0,"parameters":[0]}
+      {"code":211,"indent":0,"parameters":[1]}
+      {"code":126,"indent":0,"parameters":[79,0,0,1]}
+      {"code":126,"indent":0,"parameters":[80,0,0,1]}
+      {"code":126,"indent":0,"parameters":[78,0,0,1]}
+      {"code":126,"indent":0,"parameters":[77,0,0,1]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map012.rvdata2 ()
+  Event 1 ("EV001" @ 13,2)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,12,13,2,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 7,5)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 10,4)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 2,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("アルバン" @ 13,8)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":204,"indent":0,"parameters":[6,5,4]}
+      {"code":230,"indent":0,"parameters":[120]}
+      {"code":101,"indent":0,"parameters":["alban",3,0,2]}
+      {"code":401,"indent":0,"parameters":["さて、今日もお疲れさま！"]}
+      {"code":213,"indent":0,"parameters":[15,3,true]}
+      {"code":101,"indent":0,"parameters":["toto",4,0,2]}
+      {"code":401,"indent":0,"parameters":["ええ……今日もなんとか、"]}
+      {"code":401,"indent":0,"parameters":["依頼終わらせられましたね。"]}
+      {"code":221,"indent":0,"parameters":[]}
+      {"code":121,"indent":0,"parameters":[100,100,0]}
+      {"code":230,"indent":0,"parameters":[60]}
+      {"code":222,"indent":0,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["alban",0,0,2]}
+      {"code":401,"indent":0,"parameters":["あ、そうだ、次の依頼、見てこないと。"]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":3,"indent":null,"parameters":[]}
+        {"code":3,"indent":null,"parameters":[]}
+        {"code":3,"indent":null,"parameters":[]}
+        {"code":3,"indent":null,"parameters":[]}
+        {"code":3,"indent":null,"parameters":[]}
+        {"code":3,"indent":null,"parameters":[]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":18,"indent":null,"parameters":[]},{"code":3,"indent":null,"parameters":[]},{"code":3,"indent":null,"parameters":[]},{"code":3,"indent":null,"parameters":[]},{"code":3,"indent":null,"parameters":[]},{"code":3,"indent":null,"parameters":[]},{"code":3,"indent":null,"parameters":[]},{"code":19,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":3,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":3,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":3,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":3,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":3,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":3,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":204,"indent":0,"parameters":[8,5,4]}
+      {"code":204,"indent":0,"parameters":[6,2,4]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":4,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":101,"indent":0,"parameters":["alban",0,0,2]}
+      {"code":401,"indent":0,"parameters":["えーと……。"]}
+      {"code":401,"indent":0,"parameters":["こっちは簡単そうだけど、報酬が安いし……。"]}
+      {"code":101,"indent":0,"parameters":["alban",5,0,2]}
+      {"code":401,"indent":0,"parameters":["これは報酬は高いけど……。"]}
+      {"code":401,"indent":0,"parameters":["「地下100階にいる伝説の毒蛇を倒せ」って……。"]}
+      {"code":401,"indent":0,"parameters":["誰だよこんな依頼ここに出したの。"]}
+      {"code":101,"indent":0,"parameters":["alban",0,0,2]}
+      {"code":401,"indent":0,"parameters":["……ん？"]}
+      {"code":401,"indent":0,"parameters":["この依頼は……？"]}
+      {"code":213,"indent":0,"parameters":[0,2,true]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":4,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":101,"indent":0,"parameters":["alban",0,0,2]}
+      {"code":401,"indent":0,"parameters":["場所だけが書いてある……。"]}
+      {"code":401,"indent":0,"parameters":["なんだろうこれ？"]}
+      {"code":221,"indent":0,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,13,11,9,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 5,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 7 ("EV007" @ 9,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 8 ("EV008" @ 8,11)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 9 ("EV009" @ 6,8)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 10 ("EV010" @ 17,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 11 ("EV011" @ 20,11)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 12 ("EV012" @ 18,8)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 13 ("EV013" @ 21,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 14 ("EV014" @ 12,13)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 15 ("ラディア" @ 15,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 16 ("トト" @ 14,11)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 17 ("EV017" @ 18,13)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+        {"code":20,"indent":null,"parameters":[]}
+        {"code":20,"indent":null,"parameters":[]}
+        {"code":20,"indent":null,"parameters":[]}
+        {"code":20,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":20,"indent":null,"parameters":[]},{"code":20,"indent":null,"parameters":[]},{"code":20,"indent":null,"parameters":[]},{"code":20,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":true,"skippable":false,"wait":false}]}
+      {"code":505,"indent":0,"parameters":[{"code":20,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":20,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":20,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":20,"indent":null,"parameters":[]}]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 18 ("EV018" @ 21,14)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 19 ("EV019" @ 20,16)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 20 ("EV020" @ 17,15)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 21 ("EV021" @ 16,2)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 22 ("EV022" @ 13,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 23 ("EV023" @ 14,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 24 ("EV024" @ 14,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 25 ("EV025" @ 13,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 26 ("EV026" @ 6,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 27 ("EV027" @ 6,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 28 ("EV028" @ 8,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 29 ("EV029" @ 8,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 30 ("EV030" @ 7,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 31 ("EV031" @ 20,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 32 ("EV032" @ 19,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 33 ("EV033" @ 19,14)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 34 ("EV034" @ 19,13)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map013.rvdata2 ()
+  Event 1 ("EV001" @ 11,10)
+    Page 1
+        {"code":20,"indent":null,"parameters":[]}
+        {"code":20,"indent":null,"parameters":[]}
+        {"code":20,"indent":null,"parameters":[]}
+        {"code":20,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 11,11)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":222,"indent":0,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["emily",3,0,2]}
+      {"code":401,"indent":0,"parameters":["えーと……この素材はもう混ぜ終わったから……。"]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":3,"indent":null,"parameters":[]}
+        {"code":3,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":1,"indent":null,"parameters":[]},{"code":1,"indent":null,"parameters":[]},{"code":18,"indent":null,"parameters":[]},{"code":3,"indent":null,"parameters":[]},{"code":3,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":1,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":1,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":3,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":3,"indent":null,"parameters":[]}]}
+      {"code":213,"indent":0,"parameters":[0,8,true]}
+      {"code":213,"indent":0,"parameters":[0,6,true]}
+      {"code":101,"indent":0,"parameters":["emily",5,0,2]}
+      {"code":401,"indent":0,"parameters":["あれ、こっちじゃなかったっけ……？"]}
+      {"code":101,"indent":0,"parameters":["emily",5,0,2]}
+      {"code":401,"indent":0,"parameters":["じゃああっちかな？"]}
+        {"code":29,"indent":null,"parameters":[4]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":29,"indent":null,"parameters":[3]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":29,"indent":null,"parameters":[4]},{"code":17,"indent":null,"parameters":[]},{"code":2,"indent":null,"parameters":[]},{"code":2,"indent":null,"parameters":[]},{"code":19,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":17,"indent":null,"parameters":[]},{"code":2,"indent":null,"parameters":[]},{"code":2,"indent":null,"parameters":[]},{"code":2,"indent":null,"parameters":[]},{"code":2,"indent":null,"parameters":[]},{"code":2,"indent":null,"parameters":[]},{"code":2,"indent":null,"parameters":[]},{"code":19,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":4,"indent":null,"parameters":[]},{"code":17,"indent":null,"parameters":[]},{"code":29,"indent":null,"parameters":[3]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":29,"indent":null,"parameters":[4]}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":2,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":2,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":2,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":2,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":2,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":2,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":2,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":2,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":4,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":29,"indent":null,"parameters":[3]}]}
+      {"code":213,"indent":0,"parameters":[0,7,true]}
+      {"code":101,"indent":0,"parameters":["emily",2,0,2]}
+      {"code":401,"indent":0,"parameters":["あれー、おっかしいなあ？"]}
+      {"code":101,"indent":0,"parameters":["",0,0,2]}
+      {"code":401,"indent":0,"parameters":["何探してるの？"]}
+      {"code":401,"indent":0,"parameters":["早くしないと、調合失敗するわよ？"]}
+      {"code":401,"indent":0,"parameters":["ドカーンよドカーン。"]}
+      {"code":101,"indent":0,"parameters":["emily",5,0,2]}
+      {"code":401,"indent":0,"parameters":["その、手順を書いといたメモがなくって……。"]}
+      {"code":101,"indent":0,"parameters":["",0,0,2]}
+      {"code":401,"indent":0,"parameters":["だから手順は覚えろっていつも言ってるじゃない。"]}
+      {"code":401,"indent":0,"parameters":["知らないからねー。"]}
+      {"code":101,"indent":0,"parameters":["emily",7,0,2]}
+      {"code":401,"indent":0,"parameters":["そ、そんなぁ……。"]}
+      {"code":101,"indent":0,"parameters":["",0,0,2]}
+      {"code":401,"indent":0,"parameters":["じゃ！"]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":29,"indent":null,"parameters":[5]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":39,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[3,{"list":[{"code":37,"indent":null,"parameters":[]},{"code":29,"indent":null,"parameters":[5]},{"code":1,"indent":null,"parameters":[]},{"code":39,"indent":null,"parameters":[]},{"code":1,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":29,"indent":null,"parameters":[5]}]}
+      {"code":505,"indent":0,"parameters":[{"code":1,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":39,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":1,"indent":null,"parameters":[]}]}
+      {"code":101,"indent":0,"parameters":["emily",6,0,2]}
+      {"code":401,"indent":0,"parameters":["あっ、逃げた！"]}
+      {"code":101,"indent":0,"parameters":["emily",7,0,2]}
+      {"code":401,"indent":0,"parameters":["えっと、どうしよう？どうすればいいんだっけ？"]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("ルミナ" @ 6,7)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map014.rvdata2 ()
+Map Data/Map015.rvdata2 ()
+  Event 1 ("EV001" @ 0,0)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":121,"indent":0,"parameters":[20,20,0]}
+      {"code":137,"indent":0,"parameters":[0]}
+      {"code":211,"indent":0,"parameters":[1]}
+      {"code":126,"indent":0,"parameters":[79,0,0,1]}
+      {"code":126,"indent":0,"parameters":[80,0,0,1]}
+      {"code":126,"indent":0,"parameters":[78,0,0,1]}
+      {"code":126,"indent":0,"parameters":[77,0,0,1]}
+      {"code":0,"indent":0,"parameters":[]}
+    Page 2
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map016.rvdata2 ()

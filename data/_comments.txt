@@ -1,0 +1,78 @@
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 1:  - Comment: 各キャラが
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 2:  - Comment: 「肥満で」
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 3:  - Comment: 「幼児でなく」
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 4:  - Comment: 「肉塊でもないなら」
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 5:  - Comment: 肥満グラフィックに
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 62:  - Comment: 各キャラが
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 63:  - Comment: 「幼児で」
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 64:  - Comment: 「肉塊でないなら」
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 65:  - Comment: 幼児グラに変更
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 66:  - Comment: ついでに誰かが幼児なら幼児判定スイッチオン
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 107:  - Comment: 「誰も幼児でないなら」
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 108:  - Comment: 幼児判定スイッチオフ
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 130:  - Comment: 各キャラが
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 131:  - Comment: 「肉塊なら」
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 132:  - Comment: 肉塊グラフィックに
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 133:  - Comment: ついでに誰かが肉塊なら肉塊判定スイッチオンに
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 154:  - Comment: 「誰も肉塊でないなら」
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 155:  - Comment: 肉塊判定スイッチオフ
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 177:  - Comment: 各キャラが
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 178:  - Comment: 「肥満ではなく」
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 179:  - Comment: 「幼児でもなく」
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 180:  - Comment: 「肉塊でもない」
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 181:  - Comment: なら通常グラに
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 182:  - Comment: アルバン君のみ特殊
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 183:  - Comment: 「誰かが肉塊なら」
+Common Event 2 ｽﾃｰﾄｸﾞﾗﾁｪｯｶｰ（予備） Line 184:  - Comment: 判定拡大用キャラチップに変更
+Common Event 5 幼児装備チェックS Line 1:  - Comment: ==行動前イベント:使用前==
+Common Event 5 幼児装備チェックS Line 2:  - Comment: $game_actors[1].state?(28)
+Common Event 5 幼児装備チェックS Line 3:  - Comment: $game_actors[2].state?(28)
+Common Event 5 幼児装備チェックS Line 4:  - Comment: $game_actors[3].state?(28)
+Common Event 5 幼児装備チェックS Line 5:  - Comment: $game_actors[4].state?(28)
+Map 4 村 - Event 1 EV001 (22,35) - Page 2 Line 1:  - Comment: 接触エリア;2
+Map 4 村 - Event 2 EV002 (25,35) - Page 2 Line 1:  - Comment: 接触エリア;2
+Map 4 村 - Event 5 EV005 (20,40) - Page 1 Line 2:  - Comment: 通常
+Map 4 村 - Event 5 EV005 (20,40) - Page 1 Line 8:  - Comment: 肥満
+Map 4 村 - Event 5 EV005 (20,40) - Page 1 Line 14:  - Comment: 肉塊
+Map 4 村 - Event 5 EV005 (20,40) - Page 1 Line 20:  - Comment: 幼児
+Map 4 村 - Event 5 EV005 (20,40) - Page 1 Line 26:  - Comment: 肥満+幼児
+Map 4 村 - Event 5 EV005 (20,40) - Page 1 Line 32:  - Comment: 肉塊+幼児
+Map 4 村 - Event 5 EV005 (20,40) - Page 2 Line 1:  - Comment: 接触エリア;2
+Map 4 村 - Event 5 EV005 (20,40) - Page 2 Line 3:  - Comment: 通常
+Map 4 村 - Event 5 EV005 (20,40) - Page 2 Line 9:  - Comment: 肥満
+Map 4 村 - Event 5 EV005 (20,40) - Page 2 Line 15:  - Comment: 肉塊
+Map 4 村 - Event 5 EV005 (20,40) - Page 2 Line 21:  - Comment: 幼児
+Map 4 村 - Event 5 EV005 (20,40) - Page 2 Line 27:  - Comment: 肥満+幼児
+Map 4 村 - Event 5 EV005 (20,40) - Page 2 Line 33:  - Comment: 肉塊+幼児
+Map 4 村 - Event 5 EV005 (20,40) - Page 3 Line 2:  - Comment: 通常
+Map 4 村 - Event 5 EV005 (20,40) - Page 3 Line 8:  - Comment: 肥満
+Map 4 村 - Event 5 EV005 (20,40) - Page 3 Line 14:  - Comment: 肉塊
+Map 4 村 - Event 5 EV005 (20,40) - Page 3 Line 20:  - Comment: 幼児
+Map 4 村 - Event 5 EV005 (20,40) - Page 3 Line 26:  - Comment: 肥満+幼児
+Map 4 村 - Event 5 EV005 (20,40) - Page 3 Line 32:  - Comment: 肉塊+幼児
+Map 6 マンドラゴラの森 - Event 1 EV001 (29,25) - Page 1 Line 13:  - Comment: 通常
+Map 6 マンドラゴラの森 - Event 1 EV001 (29,25) - Page 1 Line 19:  - Comment: 肥満
+Map 6 マンドラゴラの森 - Event 1 EV001 (29,25) - Page 1 Line 25:  - Comment: 肉塊
+Map 6 マンドラゴラの森 - Event 1 EV001 (29,25) - Page 1 Line 31:  - Comment: 幼児
+Map 6 マンドラゴラの森 - Event 1 EV001 (29,25) - Page 1 Line 37:  - Comment: 肥満+幼児
+Map 6 マンドラゴラの森 - Event 1 EV001 (29,25) - Page 1 Line 43:  - Comment: 肉塊+幼児
+Map 6 マンドラゴラの森 - Event 4 EV004 (5,44) - Page 2 Line 1:  - Comment: 接触エリア;2
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 1 Line 2:  - Comment: 通常
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 1 Line 8:  - Comment: 肥満
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 1 Line 14:  - Comment: 肉塊
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 1 Line 20:  - Comment: 幼児
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 1 Line 26:  - Comment: 肥満+幼児
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 1 Line 32:  - Comment: 肉塊+幼児
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 2 Line 1:  - Comment: 接触エリア;2
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 2 Line 3:  - Comment: 通常
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 2 Line 9:  - Comment: 肥満
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 2 Line 15:  - Comment: 肉塊
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 2 Line 21:  - Comment: 幼児
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 2 Line 27:  - Comment: 肥満+幼児
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 2 Line 33:  - Comment: 肉塊+幼児
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 3 Line 2:  - Comment: 通常
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 3 Line 8:  - Comment: 肥満
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 3 Line 14:  - Comment: 肉塊
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 3 Line 20:  - Comment: 幼児
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 3 Line 26:  - Comment: 肥満+幼児
+Map 6 マンドラゴラの森 - Event 6 EV006 (9,44) - Page 3 Line 32:  - Comment: 肉塊+幼児
